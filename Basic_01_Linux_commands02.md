@@ -12,13 +12,13 @@
 
 ### 数据获取
 
-数据从UCI 数据集上直接下载，使用命令`wget`：
+数据从UCI 数据集上直接下载，使用命令`wget` :
 ```
 cd /tmp
 wget http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 ```
 
-`wget`是Linux下最常用的下载数据的命令之一， 其通常用法是：
+`wget` 是Linux下最常用的下载数据的命令之一， 其通常用法是：
 ```
  wget -c  -t 0  xxxxx 
 ```
@@ -240,7 +240,7 @@ echo "sepal_length,sepal_width,petal_length,petal_width,species" | cat -  iris.d
 
 已经有表头的数据，可以利用以下命令统计列数：
 ```
-head -1 myfile.csv | sed 's/[^,]//g' | wc -c
+head -1 iris.csv | sed 's/[^,]//g' | wc -c
 ```
 这里通过sed命令，将`head`的结果过滤为字段分隔符`,`， 然后利用`wc`统计字符个数。特别注意，**这里因为正好多统计了换行，所以恰好等于字段个数**。
 > 可能有的读者会不理解，明明直接用`head`一目了然多少列，为什么还要用命令去数。其实，在实际数据分析中拿到的数据，经常有几十个字段名，有些代码中需要知道列的个数，这时快速统计列数就很有用。
@@ -265,7 +265,7 @@ Iris-setosa,1
  sort -t , iris_types.csv  > iristype_sorted.csv
  join -t , iris_sorted.csv iristype_sorted.csv -1 5 -2 1 > testjoin.csv
 ```
-第一条`sort`命令的`-k 5`表示按照第5行进行排序。第二条是因为待排序文件本身就只有一条，所以没有指定排序字段。第三条的`join`参数`-1 5`表示，第一个待连接的数据` iris_sorted.csv`使用第5列，`-2 1`表示第二个数据`iristype_sorted.csv`使用第1列。
+第一条`sort`命令的`-k 5`表示按照第5行进行排序。第二条是因为待排序文件本身就只有一条，所以没有指定排序字段。第三条的`join`参数`-1 5`表示，第一个待连接的数据` iris_sorted.csv`使用第5列进行关联，`-2 1`表示第二个数据`iristype_sorted.csv`使用第1列进行关联。
 > `join`可实现很多SQL中类似的效果，具体可查询命令帮助`join --help`
 
 ## 莎士比亚文本分析
