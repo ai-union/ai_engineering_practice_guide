@@ -222,6 +222,9 @@ wget https://raw.githubusercontent.com/prashant2018/MLSetup/master/MLSetup_pytho
 
 我使用的CRF工具来源于`taku910/crfpp`项目。crfpp本身是C++库，也通过Swig提供了Python的封装库，但是安装过程复杂。为了方便起见，我将其重新封装成标准的扩展模块`crfpy`，可以通过`pip install crfpy`直接安装好。除了`crf_test`命令暂时没加进来，其他都与原`crfpp`相同。
 
+整个脚本文件在文末给出的代码仓库中的`src/basic-02-shell/crf/`位置，文件名为`
+do.sh`
+
 - 数据处理
 
 首先，为了让脚本出错后就终止运行，方便查看问题，需要在脚本的起始位置（`shebang`行后的第一个非注释行）设置：
@@ -267,9 +270,9 @@ time crf_learn -p 30 template train.data model.crf 2>&1 | tee  train.log
 本篇文章首先简单介绍了一些Shell编程最常需要的一些基础知识，然后提供了两个例子。
 
 - 第一个例子是通过批处理自动配置Python环境，把前面几个知识进行了串联。但有个问题是，这个**脚本直接把模块安装到了系统的python中，在实际工作中，不一定合适**。下一篇文章会为大家介绍**一种更推荐的方式——虚拟环境**。
-- 第二个例子，是通过基于CRF的NER任务实战脚本，演示了Shell脚本的批处理。我们特别注意，在第二个例子中，除了转换标签格式部分额外写了Python脚本，模型训练使用了`crf_learn`命令，其余都是利用Linux常用的shell命令就完成了。特别是最后的模型训练的日志，模型训练的计时，都没有额外编程。同时，**Shell脚本完成了比Python更高一层的“胶水语言”，把Python和C++实现的Shell命令与其他内部命令很好的衔接起来，完成一整套pipeline**。
+- 第二个例子，是通过基于CRF的NER任务实战脚本，演示了Shell脚本的批处理。我们特别注意，在第二个例子中，除了转换标签格式部分额外写了Python脚本，模型训练使用了`crf_learn`命令，其余都是利用Linux常用的shell命令就完成了。特别是最后的模型训练的**日志记录**，模型训练的**计时**，**都没有额外编程**。同时，**Shell脚本完成了比Python更高一层的“胶水语言”，把Python和C++实现的Shell命令与其他内部命令很好的衔接起来，完成一整套pipeline**。
 
-PS: 本文所需代码和演示数据，可通过[ai-union/ai_engineering_practice_guide](https://github.com/ai-union/ai_engineering_practice_guide) 中的`src`文件夹获得。本篇文章的代码文件夹是`basic-02-shell`
+PS: 本文所需代码和演示数据，可通过[ai-union/ai_engineering_practice_guide](https://github.com/ai-union/ai_engineering_practice_guide) 中的`src`文件夹获得。本篇文章的代码文件夹是`basic-02-shell`，CRF的相关代码文件在`crf`中。
 
 ## 参考资料
 
