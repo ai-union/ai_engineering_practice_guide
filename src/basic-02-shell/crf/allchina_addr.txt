@@ -1,0 +1,1000 @@
+zh	cn	Dong/house Shang/house Shop/house
+zh	cn	中/country 国/country |/FSEP 色/city 柯/city 镇/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 昆/city 明/city 市/city
+zh	cn	中/country 国/country |/FSEP 江/state 苏/state 省/state |/FSEP 镇/city 江/city 市/city
+zh	cn	中/country 国/country |/FSEP 清/city 远/city |/FSEP 大/road 学/road 东/road 路/road |/FSEP 爱/house 儿/house 坊/house 幼/house 儿/house 学/house 苑/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 三/house 星/house 飞/house 旋/house
+zh	cn	中/country 国/country |/FSEP 临/city 沂/city
+zh	cn	双/house 流/house 寺/house
+zh	cn	民/road 京/road 路/road |/FSEP 986/house_number
+zh	cn	竹/house 园/house 餐/house 厅/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 康/house 又/house 健/house 大/house 药/house 房/house
+zh	cn	南/house 湖/house 中/house 园/house 209/house 号/house 楼/house
+zh	cn	桃/house 园/house 中/house 学/house
+zh	cn	海/road 鹰/road 路/road |/FSEP 8/house_number 号/house_number
+zh	cn	中/house 国/house 农/house 业/house 银/house 行/house (/house 时/house 代/house 玫/house 瑰/house 园/house 支/house 行/house )/house
+zh	cn	中/country 国/country |/FSEP 100010/postcode |/FSEP 北/city 京/city |/FSEP 小/road 牌/road 坊/road 胡/road 同/road |/FSEP 甲/house_number 7/house_number 号/house_number |/FSEP Galaxy/house Soho/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	绿/house 化/house
+zh	cn	古/house 宛/house 斋/house
+zh	cn	山/house 西/house 省/house 人/house 民/house 政/house 府/house
+zh	cn	中/country 国/country |/FSEP 三/city 亚/city 市/city
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 珠/city 海/city 市/city |/FSEP 海/road 滨/road 南/road 路/road |/FSEP 49/house_number 号/house_number |/FSEP 中/house 国/house 光/house 大/house 银/house 行/house China/house Everbright/house Bank/house
+zh	cn	水/house 上/house 乐/house 园/house |/FSEP 郵/po_box 政/po_box 信/po_box 箱/po_box 百/po_box 七/po_box 十/po_box 一/po_box
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	CN/country |/FSEP 广/state 东/state 省/state |/FSEP 佛/city 山/city 市/city |/FSEP 高/house 新/house 技/house 术/house 开/house 发/house 区/house
+zh	cn	中/country 国/country |/FSEP 兰/city 州/city 市/city |/FSEP 水/house 上/house 清/house 真/house 寺/house
+zh	cn	上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 迪/city 庆/city 藏/city 族/city 自/city 治/city 州/city
+zh	cn	中/country 国/country |/FSEP 兰/state_district 山/state_district 区/state_district |/FSEP 临/city 沂/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 团/road 结/road 湖/road 北/road 口/road |/FSEP 대/house 동/house 베/house 이/house 징/house 덕/house
+zh	cn	中/country 国/country |/FSEP 杭/city 州/city 市/city |/FSEP 1/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 碧/house 水/house 庄/house 园/house
+zh	cn	中/house 铁/house 诺/house 德/house 滨/house 海/house 花/house 园/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 4670/po_box
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 乐/house 山/house 八/house 九/house 村/house
+zh	cn	Lianhua/house
+zh	cn	中/country 国/country |/FSEP 桃/state_district 城/state_district 区/state_district |/FSEP 衡/city 水/city 市/city |/FSEP 吉/house 美/house 超/house 市/house
+zh	cn	三/city 亚/city |/FSEP Burger/house King/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city
+zh	cn	中/country 国/country |/FSEP 宣/city 城/city 市/city
+zh	cn	水/house 渠/house
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 金/road 耀/road 路/road
+zh	cn	北/city 京/city 市/city |/FSEP 成/road 寿/road 寺/road 路/road |/FSEP 19/house_number 号/house_number |/FSEP 6/level 号/level 楼/level
+zh	cn	Forest/house of/house Upright/house Trees/house
+zh	cn	双/house 庙/house 圣/house 园/house 小/house 区/house
+zh	cn	数/house 学/house 与/house 统/house 计/house 学/house 院/house 物/house 理/house 与/house 电/house 子/house 学/house 院/house
+zh	cn	中/country 国/country |/FSEP 酒/city 泉/city 市/city |/FSEP 酒/house 泉/house 鼓/house 楼/house
+zh	cn	中/country 国/country |/FSEP 宿/city 迁/city 市/city
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city
+zh	cn	中/country 国/country |/FSEP 福/city 州/city 市/city |/FSEP 五/house 虎/house 山/house 文/house 武/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 402560/postcode |/FSEP 重/city 庆/city 市/city 铜/city 梁/city 区/city |/FSEP 铜/house 梁/house 凝/house 云/house 艺/house 术/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 471000/postcode |/FSEP 洛/city 阳/city 市/city |/FSEP 中/road 州/road 中/road 路/road |/FSEP 洛/house 阳/house 博/house 物/house 馆/house 旧/house 馆/house
+zh	cn	兴/house 隆/house 大/house 家/house 庭/house
+zh	cn	中/country 国/country |/FSEP 徐/city 州/city 市/city |/FSEP 星/house 光/house 幼/house 儿/house 园/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box ５３６/po_box |/FSEP 鹭/house 银/house 海/house 超/house 市/house
+zh	cn	山/house 城/house 辣/house 妹/house 子/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 唐/city 山/city 市/city |/FSEP 博/house 鳌/house 煤/house 业/house
+zh	cn	贵/house 州/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 洛/city 阳/city 市/city
+zh	cn	北/city 京/city 市/city |/FSEP Beijing/suburb International/suburb Convention/suburb Centre/suburb |/FSEP 中/house 国/house 科/house 学/house 技/house 术/house 馆/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city
+zh	cn	中/country 国/country |/FSEP 东/city 城/city 街/city 道/city |/FSEP 方/house 山/house 寺/house (/house 胡/house 家/house 庙/house )/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city |/FSEP 龙/house 城/house 广/house 场/house
+zh	cn	东/house 许/house 营/house 村/house
+zh	cn	南/house 六/house 楼/house 计/house 算/house 中/house 心/house
+zh	cn	紫/house 云/house 4/house 舍/house
+zh	cn	华/house 润/house 苏/house 果/house
+zh	cn	唐/house 山/house 市/house 古/house 冶/house 区/house 彩/house 霞/house 宝/house 洁/house 公/house 司/house
+zh	cn	中/country 华/country 人/country 民/country 共/country 和/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	中/country 国/country |/FSEP 江/state_district 东/state_district 区/state_district |/FSEP 宁/city 波/city 市/city
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city |/FSEP 实/house 验/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city |/FSEP 深/house 圳/house 国/house 际/house 园/house 林/house 花/house 卉/house 博/house 览/house 园/house
+zh	cn	中/country 国/country |/FSEP 湘/city 潭/city 市/city |/FSEP 信/house 息/house 楼/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	河/house 口/house 瑶/house 族/house 自/house 治/house 县/house 人/house 民/house 政/house 府/house
+zh	cn	北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 无/city 锡/city 市/city
+zh	cn	CHN/country |/FSEP 银/city 川/city 市/city
+zh	cn	德/house 胜/house 门/house
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city |/FSEP 喇/house 叭/house 镇/house 中/house 心/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city |/FSEP 园/house 科/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 赣/city 州/city 市/city |/FSEP 宁/house 都/house 县/house 人/house 民/house 政/house 府/house
+zh	cn	南/house 京/house 航/house 空/house 航/house 天/house 大/house 学/house 附/house 属/house 中/house 学/house 初/house 中/house 部/house
+zh	cn	第/house 八/house 宿/house 舍/house
+zh	cn	环/house 球/house 国/house 际/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 小/house 营/house 操/house 场/house
+zh	cn	沪/road 南/road 路/road 2729/road 弄/road |/FSEP 1017-1019/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city 市/city
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 世/house 纪/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 郊/state_district 区/state_district |/FSEP 长/city 治/city 市/city |/FSEP 兴/house 隆/house 超/house 市/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city |/FSEP Metro/house Financial/house City/house
+zh	cn	Fuyuan/house No.3/house Elementary/house School/house
+zh	cn	北/house 京/house 四/house 中/house 实/house 验/house 楼/house
+zh	cn	后/house 湖/house 小/house 区/house
+zh	cn	中/country 国/country |/FSEP 宜/city 昌/city 市/city |/FSEP 洋/house 津/house 畈/house 村/house 委/house 会/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 港/road 前/road 路/road 531/road 号/road 大/road 院/road |/FSEP 广/house 州/house 港/house 数/house 据/house 科/house 技/house 有/house 限/house 公/house 司/house
+zh	cn	Shiyang/house Busstop/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city |/FSEP 西/house 北/house 大/house 学/house 南/house 校/house 区/house
+zh	cn	中/country 国/country |/FSEP 龙/city 头/city 街/city 道/city |/FSEP Staff/house Appartment/house 2/house
+zh	cn	学/house 生/house 公/house 寓/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city |/FSEP 郭/house 陆/house 滩/house 镇/house 卫/house 生/house 院/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP Tianhecun/suburb |/FSEP 造/house 纸/house 和/house 环/house 境/house 楼/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	流/house 动/house 警/house 务/house 车/house
+zh	cn	岑/house 村/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 张/road 衡/road 路/road |/FSEP 825/house_number 号/house_number |/FSEP 张/house 江/house 校/house 区/house 食/house 堂/house
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 青/city 岛/city 市/city
+zh	cn	中/country 国/country |/FSEP 黄/city 山/city 市/city
+zh	cn	银/road 城/road 中/road 路/road |/FSEP 501/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 佛/city 祖/city 岭/city 街/city 道/city |/FSEP 佳/house 园/house 花/house 都/house
+zh	cn	中/country 国/country |/FSEP 中/city 山/city 市/city
+zh	cn	中/country 国/country |/FSEP 苏/city 州/city 市/city |/FSEP 志/house 远/house 楼/house
+zh	cn	紫/house 荆/house 花/house 食/house 府/house
+zh	cn	宾/house 阳/house 门/house
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city |/FSEP 神/road 仙/road 树/road 南/road 路/road |/FSEP 星/house 巴/house 克/house
+zh	cn	中/country 国/country |/FSEP 汉/city 水/city 桥/city 街/city 道/city |/FSEP 小/house 蓝/house 鲸/house
+zh	cn	大/house 晟/house 华/house 厦/house
+zh	cn	南/city 京/city 市/city |/FSEP 四/house 川/house 酒/house 家/house
+zh	cn	东/house 北/house 大/house 地/house 锅/house
+zh	cn	中/country 国/country |/FSEP 兰/city 州/city 市/city
+zh	cn	扬/house 州/house 高/house 等/house 职/house 业/house 技/house 术/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 无/city 锡/city 市/city |/FSEP 圣/house 公/house 会/house 教/house 堂/house
+zh	cn	中/country 国/country |/FSEP 榆/city 林/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box １３４/po_box |/FSEP 锦/house 界/house 电/house 厂/house
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city
+zh	cn	中/country 国/country |/FSEP 200240/postcode |/FSEP 上/city 海/city 市/city |/FSEP 鹤/road 庆/road 路/road 358/road 弄/road
+zh	cn	中/country 国/country |/FSEP 淄/city 博/city 市/city |/FSEP 12/house 号/house 教/house 学/house 楼/house
+zh	cn	中/country 国/country |/FSEP 珠/city 海/city 市/city |/FSEP 北/house 师/house 大/house 游/house 泳/house 池/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 松/city_district 江/city_district 区/city_district
+zh	cn	瑞/house 丰/house 大/house 厦/house
+zh	cn	Beijing/house railway/house museum/house (/house Former/house Railway/house Station/house of/house Beijing/house )/house
+zh	cn	中/country 国/country |/FSEP 福/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 保/city 山/city 市/city
+zh	cn	体/house 育/house 公/house 园/house
+zh	cn	Hainan/house Park/house
+zh	cn	北/city 京/city 市/city |/FSEP 石/suburb 景/suburb 山/suburb 区/suburb |/FSEP 玉/road 泉/road 西/road 里/road
+zh	cn	溧/house 阳/house 市/house 体/house 育/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 潍/city 坊/city 市/city
+zh	cn	深/house 圳/house 市/house 邦/house 钰/house 机/house 电/house 设/house 备/house 公/house 司/house
+zh	cn	中/country 国/country |/FSEP 四/state 川/state 省/state |/FSEP 金/city 珠/city 镇/city
+zh	cn	京/house 口/house 大/house 润/house 发/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 138/po_box |/FSEP 东/house 校/house 区/house 教/house 工/house 活/house 动/house 中/house 心/house |/FSEP 关/city 东/city 街/city 道/city 洪/state_district 山/state_district 区/state_district |/FSEP 中/country 国/country
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 石/suburb 景/suburb 山/suburb 区/suburb
+zh	cn	CHN/country |/FSEP 车/city 站/city 街/city 道/city |/FSEP 华/house 清/house 园/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city
+zh	cn	中/country 国/country |/FSEP 宜/city 春/city 市/city |/FSEP 双/road 溪/road 大/road 道/road 48/road 号/road |/FSEP 双/house 溪/house 镇/house 人/house 民/house 政/house 府/house
+zh	cn	松/road 汇/road 中/road 路/road 1101/road 弄/road
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 八/po_box 百/po_box 九/po_box 十/po_box 九/po_box
+zh	cn	中/country 国/country |/FSEP 芙/state_district 蓉/state_district 区/state_district |/FSEP 长/city 沙/city 市/city
+zh	cn	China/country |/FSEP 89244/postcode |/FSEP 金/city 寧/city 鄉/city
+zh	cn	中/country 国/country |/FSEP 浙/state 江/state 省/state |/FSEP 丽/city 水/city 市/city |/FSEP 丽/house 水/house 学/house 院/house
+zh	cn	青/house 春/house 华/house 府/house
+zh	cn	中/country 国/country |/FSEP 天/city 津/city 市/city |/FSEP Jin/house Lai/house Hua/house Yuan/house
+zh	cn	中/country 国/country |/FSEP 八/city 所/city 镇/city |/FSEP 东/house 方/house 市/house 人/house 民/house 政/house 府/house
+zh	cn	CN/country |/FSEP 江/state 苏/state 省/state |/FSEP 淮/city 安/city 市/city |/FSEP 金/house 湖/house 县/house 污/house 水/house 处/house 理/house 厂/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 新/house 体/house 育/house 馆/house
+zh	cn	CN/country |/FSEP 吴/state_district 中/state_district 区/state_district |/FSEP 苏/city 州/city 市/city
+zh	cn	白/house 蕉/house 镇/house 昭/house 信/house 市/house 场/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 149/po_box
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city |/FSEP 童/house 建/house 家/house 面/house 馆/house
+zh	cn	Shanghai/city |/FSEP Century/house 3/house (/house Shanghai/house )/house Inc./house
+zh	cn	中/country 国/country |/FSEP 银/city 川/city 市/city |/FSEP 派/house 胜/house 云/house 天/house 商/house 务/house 大/house 厦/house
+zh	cn	北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 黄/city 鹤/city 楼/city 街/city 道/city |/FSEP 武/house 汉/house 大/house 学/house 附/house 属/house 人/house 民/house 医/house 院/house 湖/house 北/house 省/house 人/house 民/house 医/house 院/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	中/country 国/country |/FSEP 积/city 玉/city 桥/city 街/city 道/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box １３３/po_box |/FSEP 2/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 杨/city_district 浦/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 100080/postcode |/FSEP 北/city 京/city |/FSEP 苏/road 州/road 街/road 3/road 号/road |/FSEP 高/house 德/house 软/house 件/house
+zh	cn	昌/house 邑/house 市/house 烟/house 草/house 专/house 卖/house 局/house
+zh	cn	中/country 国/country |/FSEP 江/city 门/city 市/city
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city
+zh	cn	中/country 国/country |/FSEP 惠/city 州/city 市/city |/FSEP 山/house 水/house 世/house 家/house 小/house 区/house
+zh	cn	中/country 国/country |/FSEP 310016/postcode |/FSEP 杭/city 州/city 市/city |/FSEP Hangzhou/house Tourism/house Committee/house
+zh	cn	中/country 国/country |/FSEP 厦/city 门/city 市/city
+zh	cn	中/country 国/country |/FSEP 镇/city 江/city 市/city
+zh	cn	Lanzhou/house Vocational/house College/house of/house Foreign/house Languages/house
+zh	cn	东/house 风/house 小/house 学/house
+zh	cn	江/house 西/house 省/house 奥/house 林/house 匹/house 克/house 体/house 育/house 中/house 心/house
+zh	cn	建/house 设/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 六/po_box 千/po_box 百/po_box 七/po_box 十/po_box 五/po_box |/FSEP 德/house 克/house 士/house
+zh	cn	餐/house 厅/house
+zh	cn	中/country 国/country |/FSEP 登/city 峰/city 街/city 道/city |/FSEP Xiatangcun/suburb
+zh	cn	中/country 国/country |/FSEP 枣/city 庄/city 市/city
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box ６４２８/po_box |/FSEP 高/house 压/house 氧/house 舱/house
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 鸿/house 越/house 华/house 庭/house
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city |/FSEP 万/road 家/road 丽/road 路/road
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	CN/country |/FSEP 710000/postcode |/FSEP 西/city 安/city 市/city |/FSEP 昆/road 明/road 路/road 与/road 团/road 结/road 南/road 路/road 十/road 字/road |/FSEP 黄/house 金/house 嘉/house 园/house 一/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 和/city 平/city 街/city 道/city |/FSEP 万/house 利/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 沙/house 县/house 小/house 吃/house
+zh	cn	中/country 国/country |/FSEP 枣/city 庄/city 市/city
+zh	cn	中/country 国/country |/FSEP 杭/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 洛/city 阳/city 市/city
+zh	cn	Nanjing/house Railway/house Station/house (/house West/house )/house
+zh	cn	潍/city 坊/city 市/city |/FSEP 兴/house 泰/house 纺/house 织/house
+zh	cn	北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 杨/city 园/city 街/city 道/city
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 江/city 口/city 街/city 道/city |/FSEP 海/house 之/house 梦/house
+zh	cn	瘦/house 西/house 湖/house
+zh	cn	中/country 国/country |/FSEP 福/state 建/state 省/state |/FSEP 金/city 門/city 縣/city 金/city 城/city 鎮/city |/FSEP 模/road 範/road 街/road |/FSEP 21/house_number 号/house_number |/FSEP 二/unit 号/unit 室/unit
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 团/city 城/city 山/city 街/city 道/city |/FSEP 广/road 会/road 路/road |/FSEP 10/house_number 号/house_number |/FSEP 黄/house 石/house 市/house 广/house 电/house 中/house 心/house
+zh	cn	山/state 东/state 省/state |/FSEP 青/city 岛/city 市/city
+zh	cn	中/country 国/country |/FSEP 宁/city 德/city 市/city
+zh	cn	九/house 江/house 日/house 报/house 社/house
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city |/FSEP 汉/house 庭/house
+zh	cn	中/country 国/country |/FSEP 河/city 口/city 瑶/city 族/city 自/city 治/city 县/city |/FSEP 河/house 口/house 瑶/house 族/house 自/house 治/house 县/house 人/house 民/house 政/house 府/house
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city |/FSEP 怡/house 园/house 锦/house 居/house
+zh	cn	南/house 体/house 育/house 馆/house
+zh	cn	中/country 国/country |/FSEP 滕/city 王/city 阁/city 街/city 道/city
+zh	cn	中/country 华/country 人/country 民/country 共/country 和/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 侵/house 华/house 日/house 军/house 南/house 京/house 大/house 屠/house 杀/house 遇/house 难/house 同/house 胞/house 纪/house 念/house 馆/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city |/FSEP 顺/house 江/house 小/house 区/house -/house 公/house 交/house 车/house 站/house
+zh	cn	18/house 栋/house
+zh	cn	中/country 国/country |/FSEP 乌/city 鲁/city 木/city 齐/city 市/city |/FSEP 18/house 幢/house
+zh	cn	坂/house 田/house 大/house 酒/house 店/house
+zh	cn	龙/house 泉/house 村/house
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 枣/city 庄/city 市/city
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city |/FSEP 宝/house 钢/house 日/house 立/house 金/house 属/house 轧/house 辊/house
+zh	cn	上/city 海/city 市/city
+zh	cn	全/house 面/house 俱/house 到/house
+zh	cn	磐/house 石/house 宾/house 馆/house
+zh	cn	中/country 国/country |/FSEP 广/state 西/state 壮/state 族/state 自/state 治/state 区/state |/FSEP 桂/city 林/city 市/city |/FSEP 阳/house 朔/house 县/house 自/house 来/house 水/house 厂/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 城/house 建/house 大/house 厦/house
+zh	cn	中/country 国/country |/FSEP 重/city 庆/city |/FSEP 铜/city_district 梁/city_district 区/city_district
+zh	cn	西/house 林/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 浦/city_district 东/city_district 新/city_district 区/city_district |/FSEP 沪/road 南/road 路/road 2727/road 弄/road |/FSEP 1306/house_number 号/house_number
+zh	cn	臺/country 灣/country |/FSEP 89150/postcode |/FSEP 金/city 門/city 縣/city
+zh	cn	铁/city 岭/city 市/city
+zh	cn	横/house 峰/house 县/house 公/house 安/house 局/house 兴/house 安/house 派/house 出/house 所/house
+zh	cn	安/house 宁/house 市/house 妇/house 幼/house 保/house 健/house 院/house
+zh	cn	团/house 城/house 演/house 武/house 厅/house
+zh	cn	下/house 坡/house 屯/house 家/house 园/house 一/house 区/house
+zh	cn	中/country 国/country |/FSEP 厦/city 门/city 市/city |/FSEP Xiamen/house University/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box ４８５５５/po_box |/FSEP 河/house 南/house 科/house 技/house 大/house 学/house 图/house 书/house 馆/house |/FSEP 洛/city 阳/city 市/city |/FSEP 中/country 国/country
+zh	cn	中/country 国/country |/FSEP 大/city 理/city 白/city 族/city 自/city 治/city 州/city |/FSEP Midu/house Busterminal/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 江/city 门/city 市/city |/FSEP 惠/road 民/road 西/road 路/road |/FSEP 新/house 会/house 第/house 一/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 玄/suburb 武/suburb 区/suburb |/FSEP 野/house 生/house 散/house 养/house 区/house
+zh	cn	200072/postcode |/FSEP Shanghai/city |/FSEP Shanghai/house Yubi/house Digital/house Technology/house (/house Video/house Production/house )/house
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city
+zh	cn	云/house 塘/house 村/house 委/house 会/house
+zh	cn	大/house 草/house 坪/house (/house 东/house 南/house 区/house )/house
+zh	cn	跨/house 境/house 工/house 业/house 区/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city
+zh	cn	合/city 肥/city 市/city
+zh	cn	巨/house 龙/house 宾/house 馆/house
+zh	cn	中/country 国/country |/FSEP 兰/state_district 山/state_district 区/state_district |/FSEP 临/city 沂/city |/FSEP 临/house 沂/house 第/house 十/house 二/house 中/house 学/house 北/house 校/house 区/house
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city |/FSEP 吉/house 林/house 大/house 学/house 前/house 卫/house 四/house 餐/house 厅/house
+zh	cn	中/country 国/country |/FSEP 上/city 饶/city 市/city
+zh	cn	浙/road 大/road 玉/road 泉/road 校/road 区/road
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box ６１２３３/po_box |/FSEP 国/house 元/house 信/house 托/house 总/house 部/house
+zh	cn	中/country 国/country |/FSEP 宁/city 波/city 市/city
+zh	cn	中/country 国/country |/FSEP 珞/city 南/city 街/city 道/city |/FSEP 陈/house 家/house 湾/house
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 广/city 州/city 市/city |/FSEP 穗/house 发/house 花/house 园/house
+zh	cn	重/house 庆/house 医/house 科/house 大/house 学/house -/house 虎/house 溪/house 校/house 区/house
+zh	cn	中/country 国/country |/FSEP 昆/city 明/city 市/city |/FSEP Carrefour/house
+zh	cn	云/house 南/house 大/house 学/house 呈/house 贡/house 校/house 区/house
+zh	cn	中/country 国/country |/FSEP 兰/city 州/city 市/city |/FSEP 兰/house 州/house 中/house 心/house
+zh	cn	Hong/house Mei/house Garden/house
+zh	cn	Gufo/house Temple/house
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	CN/country |/FSEP 珠/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 衢/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 徐/city_district 汇/city_district 区/city_district
+zh	cn	安/road 福/road 路/road
+zh	cn	中/country 国/country |/FSEP 岳/state_district 麓/state_district 区/state_district |/FSEP 长/city 沙/city 市/city
+zh	cn	中/country 国/country |/FSEP 长/city 治/city 市/city
+zh	cn	CN/country |/FSEP 山/state 东/state 省/state |/FSEP 泰/city 安/city 市/city |/FSEP 中/house 兴/house 花/house 园/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 昌/city_district 平/city_district 区/city_district |/FSEP 龙/house 华/house 园/house 12/house 号/house 楼/house
+zh	cn	漩/house 门/house 湾/house 湿/house 地/house 公/house 园/house
+zh	cn	北/house 京/house 第/house 一/house 幼/house 儿/house 园/house 分/house 园/house
+zh	cn	上/house 北/house 鑫/house 座/house 1/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 沪/road 南/road 路/road 2731/road 弄/road
+zh	cn	中/country 国/country |/FSEP 厦/city 门/city 市/city
+zh	cn	临/city 沂/city
+zh	cn	中/country 国/country |/FSEP 江/city 门/city 市/city |/FSEP 分/house 叉/house 走/house 右/house 边/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 东/city_district 城/city_district 区/city_district |/FSEP 文/house 天/house 祥/house 祠/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 秦/suburb 淮/suburb 区/suburb |/FSEP 午/house 朝/house 门/house 公/house 园/house
+zh	cn	蓼/road 北/road 路/road |/FSEP 486/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 嘉/house 禾/house 啤/house 酒/house (/house 北/house 京/house )/house
+zh	cn	中/country 国/country |/FSEP 台/city 州/city 市/city |/FSEP 小/house 商/house 品/house 市/house 场/house
+zh	cn	中/country 国/country |/FSEP 吉/state 林/state 省/state |/FSEP 四/city 平/city 市/city
+zh	cn	教/house 11/house 楼/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city |/FSEP 新/house 安/house 商/house 城/house
+zh	cn	华/house 滕/house 东/house 区/house
+zh	cn	种/house 畜/house 场/house
+zh	cn	中/country 国/country |/FSEP 分/city 界/city 镇/city |/FSEP 分/house 界/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city |/FSEP 长/road 安/road 区/road 西/road 沣/road 路/road 兴/road 隆/road 段/road |/FSEP 西/house 安/house 电/house 子/house 科/house 技/house 大/house 学/house 长/house 安/house 校/house 区/house
+zh	cn	中/country 国/country |/FSEP 洪/city 山/city 街/city 道/city |/FSEP 伯/house 乐/house 山/house
+zh	cn	老/house 酉/house 安/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 六/po_box 千/po_box 六/po_box 十/po_box
+zh	cn	奥/house 林/house 匹/house 克/house 水/house 上/house 公/house 园/house
+zh	cn	清/house 实/house 陆/house 地/house 冰/house 球/house 场/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 深/city 圳/city 市/city
+zh	cn	中/country 国/country |/FSEP 唐/city 山/city 市/city |/FSEP 沁/house 园/house 楼/house
+zh	cn	C/house 栋/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 沪/road 南/road 路/road 2729/road 弄/road |/FSEP 1021-1023/house_number
+zh	cn	中/country 国/country |/FSEP 唐/city 山/city 市/city
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city |/FSEP 荔/house 枝/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 330029/postcode |/FSEP 塘/city 山/city 镇/city |/FSEP 江/road 大/road 南/road 路/road |/FSEP 南/house 昌/house 市/house 青/house 新/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 310023/postcode |/FSEP 杭/city 州/city |/FSEP 留/road 和/road 路/road |/FSEP 健/house 行/house 楼/house
+zh	cn	上/city 海/city 市/city
+zh	cn	上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city //city Nanchang/city |/FSEP 江/house 西/house 省/house 煤/house 炭/house 工/house 业/house 科/house 学/house 研/house 究/house 所/house 产/house 业/house 基/house 地/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	中/country 国/country |/FSEP 扬/city 州/city 市/city |/FSEP 蝶/house 湖/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 保/city 定/city 市/city |/FSEP 保/house 定/house 市/house 第/house 十/house 三/house 中/house 学/house 东/house 校/house 区/house
+zh	cn	中/country 国/country |/FSEP 福/city 州/city 市/city |/FSEP 登/house 云/house 别/house 墅/house
+zh	cn	中/country 国/country |/FSEP 471000/postcode |/FSEP 洛/city 阳/city 市/city |/FSEP 凯/road 旋/road 西/road 路/road |/FSEP 34/house_number |/FSEP 芳/house 林/house 南/house 社/house 区/house
+zh	cn	大/city 连/city 市/city
+zh	cn	龙/road 潭/road 路/road
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city 市/city
+zh	cn	CN/country |/FSEP 上/city 海/city 市/city
+zh	cn	Basha/house Inn/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 三/po_box 万/po_box 三/po_box 千/po_box 七/po_box 百/po_box 二/po_box 十/po_box 九/po_box |/FSEP 外/house 婆/house 家/house |/FSEP 杭/city 州/city 市/city |/FSEP 中/country 国/country
+zh	cn	百/house 时/house 捷/house 假/house 日/house 酒/house 店/house
+zh	cn	上/city 海/city 市/city |/FSEP People's/house Park/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 渭/city 南/city 市/city |/FSEP 司/house 马/house 迁/house 墓/house
+zh	cn	中/country 国/country |/FSEP 730046/postcode |/FSEP 兰/city 州/city 市/city
+zh	cn	树/house 包/house 塔/house 塔/house 包/house 树/house
+zh	cn	海/house 豚/house 保/house 育/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city
+zh	cn	吉/state 林/state 省/state |/FSEP 四/city 平/city 市/city
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 中/house 国/house 工/house 商/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 六/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 济/city 南/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	庄/road 市/road 大/road 道/road |/FSEP 36/house_number
+zh	cn	中/country 国/country |/FSEP 宿/city 迁/city 市/city
+zh	cn	中/country 国/country |/FSEP 新/state 疆/state 维/state 吾/state 尔/state 自/state 治/state 区/state |/FSEP 泽/city 普/city |/FSEP 泽/house 普/house 县/house 第/house 四/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city
+zh	cn	中/country 国/country |/FSEP 洛/city 阳/city 市/city |/FSEP 黄/road 梅/road 路/road |/FSEP 30/house_number 號/house_number |/FSEP 老/house 城/house 国/house 税/house 局/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 石/suburb 景/suburb 山/suburb 区/suburb |/FSEP 北/house 京/house 市/house 石/house 景/house 山/house 区/house 科/house 技/house 馆/house
+zh	cn	爱/house 心/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 天/city 津/city 市/city |/FSEP 王/house 串/house 场/house 公/house 园/house
+zh	cn	交/house 通/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 上/city 饶/city 市/city |/FSEP 瀛/house 洲/house 学/house 校/house
+zh	cn	山/house 水/house 芳/house 邻/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city |/FSEP 深/house 圳/house 市/house 龙/house 岗/house 区/house 新/house 亚/house 洲/house 学/house 校/house
+zh	cn	普/house 安/house 药/house 房/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city |/FSEP 天/house 香/house |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 41/po_box
+zh	cn	中/country 国/country |/FSEP 徐/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 枣/city 庄/city 市/city |/FSEP 乒/house 乓/house 球/house 场/house
+zh	cn	中/country 国/country |/FSEP 成/city 都/city |/FSEP 锦/road 西/road 路/road |/FSEP Sichuan/house Normal/house University/house Experimental/house Foreign/house Language/house School/house
+zh	cn	岐/house 山/house 高/house 级/house 中/house 学/house
+zh	cn	百/house 福/house 花/house 园/house
+zh	cn	金/house 都/house ·/house 汉/house 宫/house
+zh	cn	金/city 华/city 市/city |/FSEP 综/house 合/house 楼/house
+zh	cn	中/country 国/country |/FSEP 乐/city 山/city 市/city |/FSEP 雷/house 洞/house 坪/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 莲/house 花/house 新/house 城/house 嘉/house 园/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city
+zh	cn	中/country 国/country |/FSEP 乌/city 鲁/city 木/city 齐/city 市/city |/FSEP 阿/road 勒/road 泰/road 路/road 嘉/road 和/road 园/road 内/road |/FSEP 2/house_number |/FSEP Vegetarian/house Vegan/house Buddhist/house Restaurant/house
+zh	cn	中/country 国/country |/FSEP 上/city 饶/city 市/city |/FSEP 横/house 峰/house 县/house 公/house 安/house 局/house 兴/house 安/house 派/house 出/house 所/house
+zh	cn	中/country 国/country |/FSEP 咸/city 阳/city 市/city
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	CN/country |/FSEP 201203/postcode |/FSEP 上/city 海/city |/FSEP 亮/road 秀/road 路/road |/FSEP 上/house 海/house 浦/house 东/house 软/house 件/house 园/house 祖/house 冲/house 之/house 园/house Y1/house 座/house
+zh	cn	中/country 国/country |/FSEP 兰/city 州/city 市/city
+zh	cn	南/house 昌/house 市/house 公/house 安/house 消/house 防/house 支/house 队/house
+zh	cn	中/country 国/country |/FSEP 哈/city 密/city 市/city |/FSEP 哈/house 密/house 市/house 创/house 业/house 孵/house 化/house 园/house
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city |/FSEP 吉/house 林/house 省/house 体/house 育/house 学/house 院/house
+zh	cn	中/country 国/country |/FSEP 景/city 德/city 镇/city 市/city |/FSEP 景/house 德/house 镇/house 罗/house 家/house 机/house 场/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 蚌/city 埠/city 市/city |/FSEP 滨/house 河/house 体/house 育/house 公/house 园/house
+zh	cn	联/house 盟/house 小/house 区/house 3/house 幢/house
+zh	cn	中/country 国/country |/FSEP 临/city 沂/city |/FSEP 临/house 沂/house 市/house 广/house 播/house 电/house 视/house 广/house 播/house 台/house
+zh	cn	白/house 鲸/house 剧/house 场/house
+zh	cn	长/house 春/house 西/house 站/house
+zh	cn	中/country 国/country |/FSEP 哈/city 尔/city 滨/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 3916/po_box |/FSEP Harbin/house Taiping/house International/house Airport/house
+zh	cn	图/house 书/house 馆/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 肇/road 嘉/road 浜/road 路/road
+zh	cn	莘/house 庄/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 200240/postcode |/FSEP 上/city 海/city 闵/city 行/city |/FSEP 南/road 洋/road 东/road 路/road |/FSEP 叶/house 轮/house 机/house 械/house 研/house 究/house 所/house
+zh	cn	龙/house 苑/house 小/house 区/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city |/FSEP 武/house 汉/house 市/house 交/house 通/house 学/house 校/house
+zh	cn	诸/house 翟/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city
+zh	cn	Taishan/house International/house Hotel/house
+zh	cn	吴/house 太/house 大/house 厦/house
+zh	cn	下/house 日/house 乎/house 寺/house
+zh	cn	中/country 国/country |/FSEP 唐/city 山/city 市/city |/FSEP 唐/house 山/house 市/house 第/house 十/house 九/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 火/city 炬/city 开/city 发/city 区/city 街/city 道/city |/FSEP 保/house 利/house 王/house 子/house 酒/house 店/house
+zh	cn	中/country 国/country |/FSEP Beijing/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box １６４３/po_box
+zh	cn	秉/house 正/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 邮/postcode 编/postcode 200240/postcode |/FSEP 上/city 海/city 市/city |/FSEP 金/road 平/road 路/road |/FSEP 198/house_number 号/house_number
+zh	cn	胖/house 东/house 来/house 百/house 货/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	古/house 荡/house 菜/house 市/house 场/house
+zh	cn	博/house 雅/house 食/house 府/house
+zh	cn	中/country 国/country |/FSEP 豫/city 海/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 17/house 号/house 楼/house
+zh	cn	程/house 姐/house 缝/house 衣/house
+zh	cn	南/city 京/city 市/city |/FSEP 江/house 苏/house 教/house 育/house 学/house 院/house 附/house 属/house 高/house 中/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city |/FSEP 学/house 生/house 公/house 寓/house (/house 女/house )/house
+zh	cn	凤/house 洲/house 中/house 学/house 教/house 师/house 宿/house 舍/house 小/house 区/house
+zh	cn	北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 宝/city 丰/city 街/city 道/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	北/city 京/city 市/city |/FSEP 游/house 船/house 码/house 头/house
+zh	cn	台/city 州/city 市/city |/FSEP 宿/house 舍/house
+zh	cn	中/country 国/country |/FSEP 燕/city 北/city 街/city 道/city |/FSEP Taoyuan/house Cave/house Scenic/house Area/house
+zh	cn	中/country 国/country |/FSEP 无/city 锡/city 市/city |/FSEP 天/house 华/house 购/house 物/house 广/house 场/house
+zh	cn	西/house 许/house 营/house 村/house
+zh	cn	定/road 鼎/road 路/road |/FSEP 18/house_number 号/house_number
+zh	cn	Pingshuo/house Gangue/house Power/house Station/house
+zh	cn	Tesco/house
+zh	cn	左/house 五/house 指/house 山/house 右/house 黄/house 茅/house 凹/house
+zh	cn	上/city 海/city 市/city |/FSEP 秀/road 沿/road 路/road 1028/road 弄/road 2/road 支/road 弄/road
+zh	cn	CN/country |/FSEP 遵/city 义/city 市/city |/FSEP 遵/house 义/house 县/house 喇/house 叭/house 镇/house 图/house 书/house 馆/house
+zh	cn	China/country |/FSEP Ордос/city //city 鄂/city 尔/city 多/city 斯/city 市/city //city Ordos/city
+zh	cn	上/city 海/city 市/city |/FSEP 黄/city_district 浦/city_district 区/city_district |/FSEP 中/house 国/house 邮/house 政/house 储/house 蓄/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 鑫/house 宇/house 宾/house 馆/house
+zh	cn	瑞/house 泰/house 口/house 腔/house 医/house 院/house
+zh	cn	联/house 盟/house 小/house 区/house 8/house 幢/house
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city
+zh	cn	普/house 君/house 新/house 城/house 华/house 府/house
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city
+zh	cn	南/city 京/city 市/city |/FSEP 雨/suburb 花/suburb 台/suburb 区/suburb |/FSEP 软/road 件/road 大/road 道/road |/FSEP 119/house_number 号/house_number |/FSEP 一/house 根/house 好/house 面/house
+zh	cn	hooters/house 中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 徐/city_district 汇/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 郵/po_box 政/po_box 信/po_box 箱/po_box 736/po_box |/FSEP 上/house 海/house 林/house 德/house 二/house 氧/house 化/house 碳/house 公/house 司/house
+zh	cn	金/house 融/house 大/house 厦/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 东/house 5/house 公/house 寓/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 3120/po_box |/FSEP Guizhou/house Rural/house Credit/house Cooperation/house |/FSEP 遵/city 义/city 市/city 播/state_district 州/state_district 区/state_district |/FSEP 中/country 国/country
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city |/FSEP 密/house 州/house 宾/house 馆/house
+zh	cn	中/country 国/country |/FSEP 沙/city 井/city 街/city 道/city
+zh	cn	中/country 国/country |/FSEP 福/city 州/city 市/city |/FSEP 龙/house 田/house 机/house 场/house
+zh	cn	中/country 国/country |/FSEP 狮/city 岭/city 镇/city
+zh	cn	中/country 国/country |/FSEP 昆/city 明/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box ７７/po_box |/FSEP 五/house 华/house 广/house 场/house
+zh	cn	乐/house 天/house 玛/house 特/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 茂/city 名/city 市/city |/FSEP 花/house 园/house 别/house 墅/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city |/FSEP 星/house 星/house 凯/house 旋/house 国/house 际/house
+zh	cn	象/house 山/house 社/house 区/house 居/house 委/house 会/house
+zh	cn	中/country 国/country |/FSEP 龙/state_district 岗/state_district 区/state_district |/FSEP 深/city 圳/city 市/city
+zh	cn	华/house 阳/house 嘉/house 苑/house
+zh	cn	5/house 号/house 实/house 验/house 楼/house
+zh	cn	物/house 美/house 大/house 卖/house 场/house 泰/house 河/house 园/house 店/house
+zh	cn	中/country 国/country |/FSEP 威/city 海/city 市/city
+zh	cn	CN/country |/FSEP 730000/postcode |/FSEP 兰/city 州/city 市/city |/FSEP 天/road 水/road 北/road 路/road |/FSEP 中/house 国/house 银/house 行/house 兰/house 州/house 市/house 滨/house 河/house 支/house 行/house
+zh	cn	中/country 国/country |/FSEP 宁/city 德/city 市/city |/FSEP 元/house 宏/house 花/house 苑/house (/house 寧/house 德/house )/house
+zh	cn	中/country 国/country |/FSEP 泰/city 州/city 市/city |/FSEP 中/house 国/house 农/house 业/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 菏/city 泽/city 市/city
+zh	cn	中/country 国/country |/FSEP 唐/city 山/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 8326/po_box
+zh	cn	君/house 临/house 国/house 际/house 广/house 场/house 2/house 幢/house
+zh	cn	兆/house 麟/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city |/FSEP 武/house 汉/house 纺/house 织/house 大/house 学/house
+zh	cn	星/house 巴/house 克/house
+zh	cn	清/house 芬/house 园/house
+zh	cn	中/country 国/country |/FSEP 玉/city 溪/city 市/city |/FSEP 兴/house 蒙/house 寺/house 庙/house
+zh	cn	永/house 盛/house 电/house 器/house 百/house 货/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	珞/road 狮/road 南/road 路/road
+zh	cn	中/house 控/house 科/house 技/house 园/house
+zh	cn	沪/road 南/road 路/road 2729/road 弄/road |/FSEP 1213/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city |/FSEP 大/house 澳/house 妈/house 祖/house 雕/house 像/house
+zh	cn	中/country 国/country |/FSEP 桂/city 林/city 市/city
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city |/FSEP 财/house 源/house 纺/house 织/house 有/house 限/house 公/house 司/house
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city
+zh	cn	中/house 国/house 建/house 设/house 银/house 行/house
+zh	cn	Chiny/country |/FSEP Kanton/city |/FSEP 永/house 平/house 信/house 记/house 海/house 鲜/house 酒/house 家/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city
+zh	cn	豪/house 德/house 钢/house 材/house 市/house 场/house
+zh	cn	玫/house 瑰/house 新/house 苑/house 小/house 区/house
+zh	cn	中/country 国/country |/FSEP 洪/state_district 山/state_district 区/state_district |/FSEP 武/city 汉/city 市/city
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 王/house 师/house 傅/house 牛/house 肉/house 面/house
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city
+zh	cn	松/house 花/house 湖/house 饺/house 子/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 66118/po_box |/FSEP 荔/house 湾/house 湖/house 公/house 园/house |/FSEP 广/city 州/city 市/city |/FSEP 中/country 国/country
+zh	cn	唐/house 山/house 市/house 交/house 通/house 运/house 输/house 技/house 工/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 中/city 山/city 市/city
+zh	cn	长/house 春/house 洞/house
+zh	cn	阳/house 光/house 和/house 墅/house
+zh	cn	上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city |/FSEP 福/house 山/house 公/house 墓/house
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city
+zh	cn	自/house 贡/house 市/house 出/house 入/house 境/house 检/house 验/house 检/house 疫/house 处/house
+zh	cn	Jinyan/house Community/house
+zh	cn	百/house 家/house 花/house 苑/house
+zh	cn	北/city 京/city 市/city |/FSEP 朝/city_district 阳/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP Panlongli/suburb
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 珠/city 海/city 市/city |/FSEP 上/house 冲/house 总/house 站/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 黄/house 焖/house 鸡/house 米/house 饭/house
+zh	cn	中/country 国/country |/FSEP 黄/city 冈/city 市/city |/FSEP 虞/house 菜/house 园/house 居/house 委/house 会/house
+zh	cn	中/country 国/country |/FSEP 宝/city 鸡/city 市/city
+zh	cn	中/country 国/country |/FSEP 泰/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 泉/city 州/city 市/city |/FSEP 泉/house 港/house 锦/house 绣/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city //city Guangzhou/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 北/road 石/road 路/road 400/road 弄/road
+zh	cn	北/city 京/city 市/city |/FSEP 恒/house 兴/house 大/house 厦/house
+zh	cn	西/house 安/house 秦/house 岭/house 野/house 生/house 动/house 物/house 园/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 滁/city 州/city 市/city |/FSEP 定/house 远/house 总/house 医/house 院/house
+zh	cn	中/country 国/country |/FSEP 新/city 平/city |/FSEP 七/house 花/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 巴/city 噶/city 乡/city
+zh	cn	中/country 国/country |/FSEP 松/city 江/city 区/city
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box ５１７/po_box |/FSEP 南/house 坪/house 中/house 学/house |/FSEP 重/city 庆/city |/FSEP 中/country 国/country
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 徐/city_district 汇/city_district 区/city_district
+zh	cn	浙/house 江/house 嘉/house 秀/house 箱/house 包/house 制/house 造/house 有/house 限/house 公/house 司/house 天/house 天/house 分/house 厂/house
+zh	cn	波/house 士/house 顿/house 电/house 池/house （/house 江/house 苏/house ）/house 有/house 限/house 公/house 司/house
+zh	cn	中/country 国/country |/FSEP 抚/city 州/city 市/city
+zh	cn	明/house 天/house 第/house 一/house 城/house 3/house 区/house
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city |/FSEP 绿/house 岛/house 休/house 闲/house 度/house 假/house 中/house 心/house
+zh	cn	Китайская/country Народная/country Республика/country |/FSEP 妥/city 甸/city 镇/city |/FSEP 查/house 姆/house 文/house 化/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 柞/state_district 水/state_district 县/state_district |/FSEP 商/city 洛/city 市/city |/FSEP 牛/house 背/house 梁/house 景/house 区/house
+zh	cn	虞/house 河/house 苑/house 小/house 区/house
+zh	cn	中/country 国/country |/FSEP 陕/state 西/state 省/state |/FSEP 西/city 安/city 市/city
+zh	cn	十/house 八/house 顶/house
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 广/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city |/FSEP 中/house 欧/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	安/state 徽/state 省/state |/FSEP 芜/city 湖/city 市/city
+zh	cn	网/house 球/house 场/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 黄/house 陂/house 新/house 村/house 西/house 区/house
+zh	cn	CN/country |/FSEP 昆/city 明/city 市/city |/FSEP 安/house 宁/house 市/house 第/house 二/house 幼/house 儿/house 园/house
+zh	cn	中/country 国/country |/FSEP 镇/city 江/city 市/city
+zh	cn	南/house 昌/house 车/house 站/house 派/house 出/house 所/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	申/road 滨/road 路/road
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city
+zh	cn	大/house 润/house 发/house 杨/house 浦/house 店/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 大/house 连/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 辽/state 宁/state 省/state |/FSEP 大/city 连/city 市/city |/FSEP értóng/house gōngyuán/house
+zh	cn	金/house 凤/house 成/house 祥/house
+zh	cn	中/country 国/country |/FSEP 济/city 南/city 市/city
+zh	cn	中/country 国/country |/FSEP 招/city 贤/city 镇/city |/FSEP 红/house 星/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 基/house 督/house 教/house 诸/house 圣/house 堂/house
+zh	cn	Dōngjiāo/house Huāyuán/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 广/house 州/house 大/house 学/house 松/house 田/house 学/house 院/house
+zh	cn	中/country 国/country |/FSEP 福/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 昆/city 明/city 市/city
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city |/FSEP 平/road 安/road 西/road 街/road |/FSEP 2091/house_number |/FSEP 昌/house 邑/house 市/house 规/house 划/house 局/house
+zh	cn	中/country 国/country |/FSEP 519087/postcode |/FSEP zhuhai/city |/FSEP 会/road 同/road 北/road 路/road |/FSEP 国/house 际/house 设/house 计/house 传/house 媒/house 学/house 院/house
+zh	cn	白/house 云/house 区/house 文/house 化/house 活/house 动/house 中/house 心/house
+zh	cn	济/house 南/house 恒/house 隆/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 咸/city 阳/city 市/city
+zh	cn	申/house 莘/house 二/house 村/house 清/house 馨/house 苑/house
+zh	cn	足/house 球/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city |/FSEP 联/house 盟/house 小/house 区/house 9/house 幢/house
+zh	cn	圆/house 通/house 快/house 递/house
+zh	cn	银/house 座/house 购/house 物/house 广/house 场/house
+zh	cn	（/house 规/house 划/house ）/house 幼/house 托/house
+zh	cn	山/house 东/house 黄/house 金/house 集/house 团/house 昌/house 邑/house 选/house 矿/house 厂/house
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city
+zh	cn	北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 展/road 览/road 馆/road 路/road |/FSEP 东/house 平/house 房/house 测/house 绘/house 学/house 院/house 教/house 学/house 基/house 地/house
+zh	cn	中/country 国/country |/FSEP 金/city 华/city 市/city |/FSEP 东/road 王/road 路/road 12/road |/FSEP 金/house 海/house 荞/house 麦/house 面/house 馆/house
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city |/FSEP 民/house 房/house +/house 临/house 建/house
+zh	cn	中/country 国/country |/FSEP 安/state 徽/state 省/state |/FSEP 宣/city 城/city 市/city
+zh	cn	中/country 国/country |/FSEP 浙/state 江/state 省/state |/FSEP 杭/city 州/city 市/city |/FSEP C-Store/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 浦/city_district 东/city_district 新/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 松/city 江/city 区/city |/FSEP 文/road 诚/road 路/road |/FSEP 2150/house_number 号/house_number |/FSEP 松/house 江/house 区/house 文/house 诚/house 幼/house 儿/house 园/house
+zh	cn	大/house 石/house 头/house
+zh	cn	7/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 浦/city_district 东/city_district 新/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 广/city 州/city 市/city
+zh	cn	根/house 思/house 烈/house 士/house 陵/house 园/house
+zh	cn	home/house inn/house
+zh	cn	Moon/house Waterfall/house
+zh	cn	南/house 京/house 火/house 车/house 站/house （/house 西/house ）/house
+zh	cn	CN/country |/FSEP 枣/city 庄/city 市/city //city Zaozhuang/city |/FSEP 山/house 东/house 润/house 康/house 生/house 物/house 工/house 程/house 公/house 司/house
+zh	cn	康/house 城/house 居/house 华/house 林/house 居/house 玉/house 树/house 别/house 院/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 北/house 京/house 市/house 海/house 淀/house 区/house 台/house 头/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city
+zh	cn	康/house 恩/house 贝/house 大/house 厦/house
+zh	cn	中/country 国/country |/FSEP 宁/city 波/city 市/city
+zh	cn	中/country 国/country |/FSEP 厦/city 门/city 市/city
+zh	cn	世/house 纪/house 新/house 城/house 西/house 区/house 29/house 幢/house
+zh	cn	Xierqi/house Mingkeyuan/house Residential/house Quarter/house
+zh	cn	中/country 国/country |/FSEP 无/city 锡/city 市/city |/FSEP 逸/house 景/house 园/house
+zh	cn	中/house 海/house 千/house 灯/house 湖/house 一/house 号/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 1427/po_box |/FSEP 爱/house 法/house 新/house 都/house
+zh	cn	中/country 国/country |/FSEP 大/city 同/city 市/city |/FSEP Weilu/house Fortress/house
+zh	cn	春/house 之/house 岛/house 超/house 市/house
+zh	cn	中/country 国/country |/FSEP 宁/city 德/city 市/city
+zh	cn	中/country 国/country |/FSEP 厦/city 门/city 市/city |/FSEP 碧/house 溪/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 锦/city 州/city 市/city |/FSEP 老/house 爷/house 庙/house 农/house 贸/house 市/house 场/house
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	金/road 马/road 街/road 道/road |/FSEP 396/house_number 号/house_number
+zh	cn	同/house 济/house 大/house 学/house 嘉/house 定/house 校/house 区/house 游/house 泳/house 池/house
+zh	cn	上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city |/FSEP 太/house 君/house 骨/house 科/house 诊/house 所/house
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP Guangzhou/house Art/house Museum/house
+zh	cn	宜/house 都/house 市/house 第/house 一/house 人/house 民/house 医/house 院/house
+zh	cn	台/house 湖/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 狮/city 子/city 山/city 街/city 道/city |/FSEP 校/house 医/house 院/house
+zh	cn	CN/country |/FSEP 上/city 海/city 市/city
+zh	cn	潍/city 坊/city 市/city
+zh	cn	中/country 国/country |/FSEP 宁/city 波/city 市/city |/FSEP 中/house 兴/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 扬/city 州/city 市/city |/FSEP 长/house 青/house 国/house 际/house
+zh	cn	沪/road 南/road 路/road 2727/road 弄/road |/FSEP 307/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city |/FSEP 革/house 命/house 烈/house 士/house 纪/house 念/house 碑/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city 市/city |/FSEP 南/house 三/house 舍/house
+zh	cn	溧/house 阳/house 福/house 尔/house 特/house
+zh	cn	东/house 南/house 大/house 学/house 九/house 龙/house 湖/house 校/house 区/house 体/house 育/house 馆/house
+zh	cn	中/country 国/country |/FSEP 沈/city 阳/city 市/city |/FSEP 沈/house 阳/house 宾/house 馆/house
+zh	cn	网/house 球/house 场/house
+zh	cn	中/country 国/country |/FSEP 430074/postcode |/FSEP Wuhan/city |/FSEP 学/house 府/house 佳/house 园/house
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city |/FSEP 长/house 春/house 蓝/house 天/house 救/house 援/house 队/house
+zh	cn	公/house 交/house 红/house 星/house 楼/house 车/house 场/house
+zh	cn	水/house 沟/house 前/house 大/house 市/house 场/house
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city
+zh	cn	中/country 国/country |/FSEP 临/city 沂/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 三/po_box 十/po_box 五/po_box 万/po_box 六/po_box 千/po_box 四/po_box 百/po_box 十/po_box 六/po_box |/FSEP 80/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 衡/city 阳/city 市/city
+zh	cn	Nanyang/house Airport/house
+zh	cn	中/country 国/country |/FSEP 安/city 康/city 市/city
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 珠/city 海/city 市/city |/FSEP 上/house 冲/house 检/house 查/house 站/house
+zh	cn	上/house 方/house 公/house 馆/house ·/house 中/house 府/house
+zh	cn	中/country 国/country |/FSEP 枣/city 庄/city 市/city
+zh	cn	中/country 国/country |/FSEP 四/city 唯/city 街/city 道/city
+zh	cn	中/house 国/house 移/house 动/house 西/house 湖/house 浙/house 大/house 紫/house 金/house 港/house 校/house 园/house 店/house
+zh	cn	中/country 国/country |/FSEP 金/city 华/city 市/city
+zh	cn	中/country 国/country |/FSEP 苏/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 312044/postcode |/FSEP 绍/city 兴/city 市/city
+zh	cn	三/road 亚/road 湾/road 路/road |/FSEP 21/house_number 号/house_number 昌/house_number 达/house_number 海/house_number 景/house_number 花/house_number 园/house_number 1/house_number 期/house_number B/house_number 栋/house_number 1/house_number 楼/house_number (/house_number 近/house_number 新/house_number 风/house_number 街/house_number )/house_number
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP Tianhecun/suburb |/FSEP 广/house 州/house 市/house 轻/house 工/house 业/house 学/house 校/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 七/po_box 万/po_box 九/po_box 千/po_box 九/po_box 百/po_box 六/po_box 十/po_box
+zh	cn	中/country 国/country |/FSEP 邮/postcode 编/postcode 400715/postcode |/FSEP 重/city 庆/city 市/city 北/city 碚/city 区/city |/FSEP 天/road 生/road 路/road
+zh	cn	客/house 香/house 园/house 餐/house 厅/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city
+zh	cn	中/country 国/country |/FSEP 桂/city 林/city 市/city |/FSEP LaoCunTou/house
+zh	cn	象/house 山/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 四/po_box 千/po_box 五/po_box 百/po_box 七/po_box 十/po_box 三/po_box |/FSEP 深/house 圳/house 书/house 城/house 南/house 山/house 城/house
+zh	cn	Nangongshan/house Primary/house School/house
+zh	cn	Graduate/house Dorm/house 1/house
+zh	cn	中/country 国/country |/FSEP 江/city 门/city 市/city |/FSEP 万/house 达/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 东/city 新/city 乡/city
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 颜/house 乐/house 天/house 纪/house 念/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city |/FSEP 安/house 盛/house 购/house 物/house 广/house 场/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 风/road 阳/road 路/road |/FSEP 598/house_number |/FSEP Oriental/house Notary/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 镇/city 江/city 市/city |/FSEP 华/house 帝/house 宾/house 馆/house
+zh	cn	中/country 国/country |/FSEP 杭/city 州/city 市/city |/FSEP 杭/house 州/house 博/house 物/house 馆/house 南/house 馆/house
+zh	cn	古/house 塔/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 杭/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	中/country 国/country |/FSEP 松/city 江/city 区/city |/FSEP 谷/road 阳/road 北/road 路/road |/FSEP 881/house_number 號/house_number
+zh	cn	徽/house 商/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 泰/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 枣/city 庄/city 市/city
+zh	cn	中/country 国/country |/FSEP 太/city 原/city 市/city |/FSEP 桃/house 南/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 岳/city 阳/city 市/city |/FSEP 汨/house 罗/house 纺/house 织/house 厂/house 生/house 产/house 车/house 间/house
+zh	cn	恒/house 信/house 御/house 景/house 峰/house 小/house 区/house
+zh	cn	聖/house 龍/house 大/house 酒/house 店/house
+zh	cn	中/country 国/country |/FSEP 石/city 岩/city |/FSEP 招/house 商/house 果/house 岭/house 2/house 栋/house
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city 市/city
+zh	cn	沪/road 南/road 路/road 2731/road 弄/road |/FSEP 826-828/house_number 號/house_number
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 深/city 圳/city 市/city
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city |/FSEP KFC/house
+zh	cn	台/city 州/city 市/city |/FSEP 嘉/house 盛/house 苑/house
+zh	cn	江/house 西/house 省/house 心/house 理/house 康/house 复/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	无/house 锡/house 市/house 人/house 民/house 医/house 院/house
+zh	cn	中/country 国/country |/FSEP 济/city 宁/city 市/city |/FSEP 滕/house 州/house 市/house 长/house 青/house 汽/house 修/house 厂/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 朝/city_district 阳/city_district 区/city_district |/FSEP 南/house 湖/house 体/house 育/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 玉/city 林/city 市/city
+zh	cn	中/country 华/country 人/country 民/country 共/country 和/country 国/country |/FSEP 潍/city 坊/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 老/house 生/house 物/house 楼/house
+zh	cn	Kunming/house Children's/house Hospital/house
+zh	cn	理/house 育/house 楼/house
+zh	cn	航/house 华/house 三/house 村/house 三/house 佳/house 苑/house
+zh	cn	港/house 湾/house 新/house 城/house
+zh	cn	中/country 国/country |/FSEP 咸/city 阳/city 市/city |/FSEP 渭/house 滨/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 静/city_district 安/city_district 区/city_district |/FSEP 北/road 京/road 西/road 路/road |/FSEP 510/house_number 号/house_number |/FSEP 上/house 海/house 自/house 然/house 博/house 物/house 馆/house
+zh	cn	中/country 国/country |/FSEP 風/city 順/city 堂/city 區/city |/FSEP 迷/house 你/house 教/house 育/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 马/city 鞍/city 山/city 市/city |/FSEP 南/house 湖/house 宾/house 馆/house
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city |/FSEP 昌/house 邑/house 广/house 潍/house 汽/house 车/house 销/house 售/house 服/house 务/house 有/house 限/house 公/house 司/house
+zh	cn	金/house 华/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city |/FSEP 教/house 师/house 村/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city |/FSEP East/house Bus/house Station/house of/house Hefei/house
+zh	cn	大/house 邱/house 新/house 村/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 四/city 平/city 市/city
+zh	cn	中/country 国/country |/FSEP 261300/postcode |/FSEP 昌/city 邑/city 市/city |/FSEP 育/road 新/road 街/road |/FSEP 249/house_number |/FSEP 昌/house 邑/house 市/house 第/house 二/house 实/house 验/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 航/road 头/road 镇/road |/FSEP 航/house_number 鹤/house_number 路/house_number 658/house_number 号/house_number |/FSEP 浦/house 东/house 新/house 区/house 国/house 税/house 局/house 第/house 三/house 十/house 四/house 税/house 务/house 所/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 临/city 沂/city |/FSEP 兰/house 山/house 区/house 人/house 民/house 法/house 院/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 베/house 이/house 징/house 공/house 항/house
+zh	cn	中/country 国/country |/FSEP 松/city 江/city 区/city |/FSEP 谷/road 阳/road 北/road 路/road |/FSEP 881/house_number |/FSEP 公/house 捷/house 苑/house
+zh	cn	天/house 翼/house 大/house 酒/house 店/house
+zh	cn	溧/house 阳/house 市/house 第/house 二/house 污/house 水/house 处/house 理/house 厂/house
+zh	cn	北/city 京/city 市/city |/FSEP 11/house 号/house 楼/house
+zh	cn	中/country 国/country |/FSEP 泰/city 安/city 市/city
+zh	cn	中/country 国/country |/FSEP 端/state_district 州/state_district 区/state_district |/FSEP 肇/city 庆/city 市/city
+zh	cn	中/country 国/country |/FSEP 杭/city 州/city 市/city |/FSEP Industrial/house and/house Commercial/house Bank/house of/house China/house (/house ICBC/house )/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city
+zh	cn	木/road 山/road 村/road 口/road |/FSEP 1/house_number 号/house_number
+zh	cn	特/house 信/house 商/house 城/house
+zh	cn	中/country 国/country |/FSEP 锦/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city |/FSEP 海/suburb 淀/suburb 区/suburb
+zh	cn	上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 上/house 海/house 新/house 世/house 界/house 大/house 丸/house 百/house 货/house
+zh	cn	中/country 国/country |/FSEP 信/city 阳/city 市/city |/FSEP 北/house 小/house 店/house 社/house 区/house
+zh	cn	中/country 国/country |/FSEP 常/city 州/city 市/city |/FSEP 溧/house 阳/house 市/house 培/house 智/house 学/house 校/house
+zh	cn	长/city 沙/city 市/city
+zh	cn	中/country 国/country |/FSEP 昆/city 明/city 市/city |/FSEP 东/house 区/house 11/house 栋/house 学/house 生/house 宿/house 舍/house 楼/house
+zh	cn	链/house 家/house 地/house 产/house
+zh	cn	中/country 国/country |/FSEP 兰/city 州/city 市/city |/FSEP 兰/house 州/house 市/house 地/house 税/house 局/house
+zh	cn	叠/house 彩/house 山/house 公/house 园/house
+zh	cn	石/house 龙/house 洞/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 虹/suburb 口/suburb 区/suburb |/FSEP 中/road 山/road 东/road 一/road 路/road |/FSEP 361/house_number 号/house_number |/FSEP 日/house 世/house 屋/house Nissei/house Land/house
+zh	cn	国/house 家/house 牡/house 丹/house 园/house （/house 南/house 区/house ）/house
+zh	cn	潍/house 坊/house 东/house 元/house 连/house 海/house 化/house 工/house 有/house 限/house 公/house 司/house
+zh	cn	中/country 国/country |/FSEP 湖/state 北/state 省/state |/FSEP 武/city 汉/city 市/city |/FSEP 铁/house 箕/house 山/house 派/house 出/house 所/house
+zh	cn	中/country 国/country |/FSEP 无/city 锡/city 市/city
+zh	cn	中/country 国/country |/FSEP 400060/postcode |/FSEP Chongqing/city |/FSEP 南/city_district 岸/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 扬/city 州/city 市/city
+zh	cn	民/road 丰/road 路/road |/FSEP 79/house_number 号/house_number
+zh	cn	丝/house 绸/house 印/house 染/house 宿/house 舍/house 区/house
+zh	cn	星/house 都/house 宾/house 馆/house
+zh	cn	篮/house 球/house 场/house
+zh	cn	汇/house 福/house 名/house 园/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP Tilanqiao/suburb |/FSEP 长/house 白/house 三/house 村/house
+zh	cn	中/country 国/country |/FSEP 甘/state 肃/state 省/state |/FSEP 兰/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 471000/postcode |/FSEP 洛/city 阳/city 市/city |/FSEP 纱/road 厂/road 北/road 路/road |/FSEP 火/house 车/house 票/house 代/house 售/house 处/house
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city
+zh	cn	中/country 国/country |/FSEP 宜/city 宾/city 市/city
+zh	cn	雪/house 枫/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 肇/road 嘉/road 浜/road 路/road |/FSEP 7/house_number 号/house_number |/FSEP Rayfont/house Downtown/house Hotel/house
+zh	cn	16/road Gaoxin/road 5th/road Road/road ,/SEP Xi'an/road ,/SEP Shaanxi/road
+zh	cn	中/country 国/country |/FSEP 哈/city 尔/city 滨/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 万/po_box 五/po_box 千/po_box 二/po_box 百/po_box 八/po_box 十/po_box 一/po_box |/FSEP 黑/house 龙/house 江/house 大/house 学/house
+zh	cn	浦/house 西/house 一/house 村/house
+zh	cn	高/house 邮/house 市/house 人/house 民/house 商/house 城/house
+zh	cn	上/city 海/city 市/city |/FSEP （/house 规/house 划/house ）/house 绿/house 地/house
+zh	cn	白/house 云/house 寺/house
+zh	cn	中/country 国/country |/FSEP 410083/postcode |/FSEP 长/city 沙/city 市/city |/FSEP 教/house 工/house 9/house 舍/house
+zh	cn	中/country 国/country |/FSEP 济/city 宁/city 市/city |/FSEP 中/house 医/house 医/house 院/house
+zh	cn	中/country 国/country |/FSEP 杨/city 园/city 街/city 道/city |/FSEP 海/house 虹/house 二/house 、/house 三/house 栋/house
+zh	cn	石/house 雕/house 公/house 園/house
+zh	cn	CN/country |/FSEP 471000/postcode |/FSEP 洛/city 阳/city 市/city |/FSEP 九/road 都/road 路/road |/FSEP 省/house 安/house 幼/house 儿/house 园/house
+zh	cn	西/house 班/house 牙/house 庄/house 园/house
+zh	cn	中/country 国/country |/FSEP 日/city 喀/city 则/city 地/city 区/city |/FSEP Grand/house Hotel/house of/house Western/house Post/house
+zh	cn	兰/house 州/house 电/house 信/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 清/road 华/road 西/road 路/road
+zh	cn	西/house 山/house 镇/house 人/house 民/house 政/house 府/house
+zh	cn	中/country 国/country |/FSEP 淄/city 博/city 市/city
+zh	cn	中/country 国/country |/FSEP 四/state 川/state 省/state |/FSEP 宜/city 宾/city 市/city
+zh	cn	中/country 国/country |/FSEP 武/state_district 昌/state_district 区/state_district |/FSEP 南/city 湖/city 街/city 道/city |/FSEP 虹/house 顶/house 花/house 园/house
+zh	cn	中/country 国/country |/FSEP 南/state_district 海/state_district 区/state_district |/FSEP 佛/city 山/city 市/city
+zh	cn	安/house 宁/house 市/house 博/house 物/house 馆/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP Tilanqiao/suburb |/FSEP 锅/house 炉/house 房/house
+zh	cn	中/country 国/country |/FSEP 南/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city |/FSEP 安/house 顺/house 佳/house 园/house
+zh	cn	上/house 海/house 公/house 安/house 学/house 校/house 西/house 门/house
+zh	cn	茶/house 物/house 语/house
+zh	cn	中/country 国/country |/FSEP 昆/city 明/city 市/city
+zh	cn	China/country |/FSEP 潍/city 坊/city 市/city //city Weifang/city |/FSEP 吉/house 祥/house ·/house 福/house 海/house 豪/house 庭/house 小/house 区/house
+zh	cn	白/house 马/house 公/house 园/house
+zh	cn	青/house 龙/house 峡/house 寨/house
+zh	cn	中/country 国/country |/FSEP 济/city 南/city 市/city
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	中/country 国/country |/FSEP 邮/postcode 编/postcode 400715/postcode |/FSEP 重/city 庆/city 市/city 北/city 碚/city 区/city |/FSEP 天/road 生/road 路/road |/FSEP 西/house 南/house 大/house 学/house
+zh	cn	老/house 面/house 皮/house
+zh	cn	中/house 国/house 农/house 业/house 发/house 展/house 银/house 行/house 唐/house 山/house 市/house 古/house 冶/house 区/house 支/house 行/house
+zh	cn	中/country 国/country |/FSEP 菏/city 泽/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	Shànghǎi/house Pǔdōng/house Guójì/house Jīchǎng/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 地/house 航/house 遥/house 商/house 店/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	十/house 点/house 一/house 刻/house
+zh	cn	松/city 江/city 区/city |/FSEP 北/road 松/road 公/road 路/road |/FSEP 6700/house_number |/FSEP 沪/house 松/house 五/house 金/house 建/house 材/house 市/house 场/house
+zh	cn	Chine/country |/FSEP 成/city 都/city 市/city //city Chengdu/city
+zh	cn	China/house Unicom/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 枣/road 庄/road 路/road |/FSEP 上/house 海/house 市/house 建/house 平/house 实/house 验/house 小/house 学/house
+zh	cn	京/house 城/house 梨/house 园/house
+zh	cn	中/country 国/country |/FSEP 南/city 通/city 市/city |/FSEP 天/house 主/house 堂/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 羲/house 和/house 小/house 馆/house
+zh	cn	中/country 国/country |/FSEP 菏/city 泽/city 市/city |/FSEP 帝/house 都/house 花/house 园/house
+zh	cn	中/country 国/country |/FSEP 铜/city 陵/city 市/city |/FSEP 汇/house 金/house 广/house 场/house （/house 在/house 建/house ）/house
+zh	cn	车/house 棚/house
+zh	cn	Yīxiàntiān/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 首/house 都/house 师/house 范/house 大/house 学/house 运/house 动/house 场/house
+zh	cn	金/house 泰/house 嘉/house 园/house
+zh	cn	浙/house 江/house 外/house 国/house 语/house 学/house 院/house 附/house 属/house 实/house 验/house 学/house 校/house
+zh	cn	约/house 克/house 阁/house 9/house 号/house 楼/house
+zh	cn	上/house 海/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city |/FSEP 江/house 西/house 师/house 范/house 大/house 学/house
+zh	cn	中/country 国/country |/FSEP 淄/city 博/city 市/city |/FSEP 信/house 息/house 楼/house
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city |/FSEP xīnghǎi/house gōngyuán/house
+zh	cn	合/house 生/house ·/house 帝/house 景/house 苑/house
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	CHN/country |/FSEP 厦/city 门/city 市/city |/FSEP 凤/house 凰/house 苑/house 1/house
+zh	cn	中/country 国/country |/FSEP 福/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 邮/postcode 编/postcode 471003/postcode |/FSEP 河/state 南/state 省/state |/FSEP 洛/city 阳/city 市/city |/FSEP 中/road 州/road 西/road 路/road |/FSEP 226/house_number 号/house_number |/FSEP 东/house 方/house 二/house 中/house
+zh	cn	中/country 国/country |/FSEP 拉/city 萨/city 市/city
+zh	cn	中/country 国/country |/FSEP 德/city 阳/city 市/city
+zh	cn	中/country 国/country |/FSEP 长/city 沙/city 市/city
+zh	cn	Haiquanwan/house
+zh	cn	Huálín/house Temple/house
+zh	cn	Gome/house
+zh	cn	中/country 国/country |/FSEP 保/city 定/city 市/city
+zh	cn	中/country 国/country |/FSEP 松/city 江/city 区/city
+zh	cn	法/house 雨/house 寺/house
+zh	cn	联/house 华/house
+zh	cn	中/country 国/country |/FSEP 福/state 建/state 省/state |/FSEP 福/city 州/city 市/city |/FSEP 万/house 国/house 公/house 益/house 社/house
+zh	cn	外/house 婆/house 家/house
+zh	cn	安/house 徽/house 省/house 军/house 区/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 沪/road 南/road 路/road 2727/road 弄/road |/FSEP 1465/house_number
+zh	cn	龙/road 翔/road 大/road 道/road |/FSEP 7147/house_number 号/house_number |/FSEP 龙/house 岗/house 信/house 息/house 枢/house 纽/house 大/house 厦/house |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 七/po_box 百/po_box 十/po_box 三/po_box
+zh	cn	中/country 国/country |/FSEP 淮/city 安/city 市/city |/FSEP 再/house 红/house 批/house 发/house 部/house
+zh	cn	中/country 国/country |/FSEP 兰/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 天/city 水/city 市/city |/FSEP 皇/house 城/house 國/house 際/house 酒/house 店/house
+zh	cn	宿/house 城/house 区/house 工/house 商/house 局/house |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 408/po_box
+zh	cn	中/country 国/country |/FSEP 广/city 州/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 1337/po_box |/FSEP 合/house 景/house 国/house 际/house 金/house 融/house 广/house 场/house 合/house 景/house 國/house 際/house 金/house 融/house 廣/house 場/house
+zh	cn	大/house 石/house 头/house 直/house 上/house
+zh	cn	西/house 湖/house 假/house 日/house 酒/house 店/house
+zh	cn	北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 蚌/city 埠/city 市/city |/FSEP 实/house 验/house 学/house 校/house （/house 初/house 中/house 部/house ）/house
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city |/FSEP 君/house 悦/house 花/house 园/house 小/house 区/house
+zh	cn	华/house 亿/house 科/house 学/house 园/house
+zh	cn	成/road 都/road 北/road 路/road |/FSEP 337/house_number 南/house_number 门/house_number
+zh	cn	China/country |/FSEP 积/city 玉/city 桥/city 街/city 道/city |/FSEP 和/road 平/road 大/road 道/road
+zh	cn	中/country 国/country |/FSEP 自/city 贡/city 市/city
+zh	cn	南/city 京/city |/FSEP 天/road 元/road 中/road 路/road
+zh	cn	中/country 国/country |/FSEP 固/city 原/city 市/city |/FSEP Guyuan/house Liupanshan/house Airport/house
+zh	cn	荷/house 花/house 池/house
+zh	cn	Dangdai/house Chengshi/house Jiayuan/house Residential/house Quarter/house
+zh	cn	CHN/country |/FSEP 金/city 华/city 市/city
+zh	cn	中/house 建/house 投/house ·/house 优/house 品/house 尚/house 城/house （/house 南/house 区/house ）/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city
+zh	cn	210023/postcode |/FSEP 江/state 苏/state 省/state |/FSEP 南/city 京/city |/FSEP 仙/road 林/road 大/road 道/road |/FSEP 杜/house 厦/house 图/house 书/house 馆/house
+zh	cn	中/country 国/country |/FSEP 大/city 连/city 市/city |/FSEP Art/house School/house
+zh	cn	中/country 国/country |/FSEP 江/state 苏/state 省/state |/FSEP 南/city 通/city 市/city
+zh	cn	大/house 西/house 豪/house
+zh	cn	中/country 国/country |/FSEP 保/city 定/city 市/city |/FSEP 保/house 定/house 植/house 物/house 园/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city
+zh	cn	内/house 沙/house 湖/house 公/house 园/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box ８５/po_box |/FSEP 史/house 家/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 新/city 乡/city 市/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 八/house 卦/house 碑/house
+zh	cn	金/house 茂/house 大/house 厦/house
+zh	cn	中/country 国/country |/FSEP 湘/city 潭/city 市/city
+zh	cn	中/country 国/country |/FSEP 南/city 阳/city 市/city
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 潍/city 坊/city 市/city |/FSEP 东/house 疃/house 村/house
+zh	cn	中/country 国/country |/FSEP 铁/city 岭/city 市/city
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city |/FSEP 豫/house 章/house 故/house 郡/house
+zh	cn	CHN/country |/FSEP 沈/city 阳/city 市/city |/FSEP 沈/house 阳/house 化/house 工/house 大/house 学/house 体/house 育/house 馆/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 石/road 门/road 一/road 路/road |/FSEP 19-4/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 彭/city 家/city 湾/city |/FSEP Pengjiawan/house
+zh	cn	兴/house 化/house 职/house 业/house 教/house 育/house 中/house 心/house 校/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city |/FSEP 护/road 国/road 寺/road 街/road |/FSEP 85/house_number |/FSEP 护/house 国/house 寺/house 新/house 天/house 地/house
+zh	cn	江/state 西/state 省/state |/FSEP 南/city 昌/city 市/city |/FSEP 新/house 建/house 区/house 石/house 岗/house 中/house 学/house
+zh	cn	碧/house 水/house 方/house 圆/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 光/house 明/house 城/house 市/house
+zh	cn	上/city 海/city 市/city
+zh	cn	北/city 京/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	乔/house 家/house 珊/house 小/house 吃/house
+zh	cn	金/house 秋/house 园/house 农/house 家/house 菜/house 馆/house
+zh	cn	中/country 国/country |/FSEP 大/state_district 理/state_district 市/state_district |/FSEP 大/city 理/city 白/city 族/city 自/city 治/city 州/city
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 均/house 斋/house
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city |/FSEP 饶/house 平/house 县/house 体/house 育/house 综/house 合/house 训/house 练/house 馆/house
+zh	cn	中/country 国/country |/FSEP 嘉/city 兴/city 市/city
+zh	cn	中/country 国/country |/FSEP 重/city 庆/city |/FSEP 重/house 庆/house 市/house 人/house 民/house 小/house 学/house
+zh	cn	上/city 海/city 市/city |/FSEP 汇/house 龙/house 潭/house 公/house 园/house
+zh	cn	China/country |/FSEP Chiuchow/city |/FSEP 广/house 场/house 东/house 15/house 号/house 商/house 行/house
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 泰/city 安/city 市/city |/FSEP West/house Coach/house Station/house
+zh	cn	上/city 海/city 市/city |/FSEP 黄/city_district 浦/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 泰/city 安/city 市/city |/FSEP 高/house 家/house 楼/house 村/house
+zh	cn	中/house 国/house 建/house 设/house 银/house 行/house
+zh	cn	中/country 国/country |/FSEP 200240/postcode |/FSEP 上/city 海/city 市/city |/FSEP 鹤/road 庆/road 路/road 358/road 弄/road |/FSEP 74/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 江/road 阴/road 路/road
+zh	cn	中/country 国/country |/FSEP 乌/city 海/city 市/city 海/city 南/city 区/city
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city |/FSEP 成/house 都/house 市/house 第/house 七/house 中/house 学/house
+zh	cn	中/country 国/country |/FSEP 萍/city 乡/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box ５６１/po_box |/FSEP 联/house 建/house 新/house 村/house 小/house 区/house
+zh	cn	中/country 国/country |/FSEP 潮/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 柳/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 浙/state 江/state 省/state |/FSEP 杭/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	中/country 国/country |/FSEP 深/city 圳/city 市/city
+zh	cn	安/state 徽/state 省/state |/FSEP 黄/city 山/city 市/city |/FSEP 伯/house 特/house 利/house 大/house 药/house 房/house
+zh	cn	中/country 国/country |/FSEP 呼/city 伦/city 贝/city 尔/city 市/city |/FSEP 世/house 纪/house 广/house 场/house
+zh	cn	青/house 柠/house 餐/house 厅/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 松/city_district 江/city_district 区/city_district |/FSEP 南/house 部/house 阳/house 光/house 翠/house 庭/house
+zh	cn	学/house 生/house 第/house 四/house 食/house 堂/house
+zh	cn	如/house 家/house 快/house 捷/house 酒/house 店/house
+zh	cn	中/country 国/country |/FSEP 东/city 新/city 乡/city |/FSEP 象/house 湖/house 明/house 珠/house
+zh	cn	中/country 国/country |/FSEP 桂/city 林/city 市/city |/FSEP Qíntán/house
+zh	cn	长/house 春/house 市/house 儿/house 童/house 医/house 院/house
+zh	cn	沪/road 南/road 路/road 2727/road 弄/road |/FSEP 1115/house_number 号/house_number
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city
+zh	cn	南/road 下/road 洼/road 子/road 胡/road 同/road |/FSEP 3/house_number
+zh	cn	北/city 京/city |/FSEP 太/road 平/road 桥/road 路/road |/FSEP 17/house_number 號/house_number |/FSEP 北/house 京/house 京/house 城/house 国/house 丹/house 医/house 院/house
+zh	cn	中/country 国/country |/FSEP 运/city 城/city 市/city |/FSEP 篮/house 球/house 场/house ，/house 羽/house 毛/house 球/house 场/house
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city |/FSEP 长/house 安/house 大/house 厦/house
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city
+zh	cn	沪/road 南/road 路/road 2729/road 弄/road |/FSEP 346/house_number
+zh	cn	中/country 国/country |/FSEP 台/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 471003/postcode |/FSEP 洛/city 阳/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 31/po_box |/FSEP 西/house 苑/house 明/house 珠/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 杨/city_district 浦/city_district 区/city_district |/FSEP 南/road 大/road 道/road |/FSEP 空/house 间/house 信/house 息/house 科/house 学/house 及/house 可/house 持/house 续/house 发/house 展/house 应/house 用/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city |/FSEP 场/road 中/road 路/road |/FSEP Shanghai/house Zhabei/house No.8/house Middle/house School/house
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 国/house 家/house 实/house 验/house 室/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city |/FSEP 张/house 槎/house 中/house 心/house 小/house 学/house
+zh	cn	中/country 国/country |/FSEP 宁/city 波/city 市/city |/FSEP 中/house 百/house 大/house 厦/house
+zh	cn	英/house 德/house 市/house 检/house 察/house 院/house
+zh	cn	甘/house 肃/house 省/house 化/house 工/house 研/house 究/house 院/house
+zh	cn	思/house 福/house 堂/house
+zh	cn	中/country 国/country |/FSEP 100044/postcode |/FSEP 北/city 京/city
+zh	cn	书/house 店/house
+zh	cn	上/city 海/city 市/city |/FSEP 普/city_district 陀/city_district 区/city_district
+zh	cn	中/country 国/country |/FSEP 阳/city 江/city 市/city |/FSEP 北/house 湖/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 江/state 西/state 省/state |/FSEP 南/city 昌/city 市/city
+zh	cn	鼎/house 湖/house 派/house 出/house 所/house
+zh	cn	固/house 始/house 县/house 财/house 政/house 局/house
+zh	cn	中/country 国/country |/FSEP 杭/city 州/city 市/city |/FSEP Měirì/house
+zh	cn	中/country 国/country |/FSEP 成/city 都/city 市/city
+zh	cn	六/house 宿/house 舍/house
+zh	cn	中/country 国/country |/FSEP 中/city 山/city 市/city |/FSEP 三/house 乡/house 雅/house 居/house 乐/house 佰/house 利/house 山/house
+zh	cn	中/country 国/country |/FSEP 合/city 肥/city 市/city |/FSEP Luyang/house Academy/house
+zh	cn	中/country 国/country |/FSEP 江/city 门/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 74378/po_box |/FSEP 吊/house 钟/house 花/house 结/house 束/house
+zh	cn	成/house 都/house 纺/house 织/house 高/house 等/house 专/house 科/house 学/house 校/house 北/house 苑/house
+zh	cn	中/country 国/country |/FSEP 站/city 前/city 街/city 道/city
+zh	cn	华/house 雅/house 林/house 语/house 苑/house
+zh	cn	Autumn/house Grove/house
+zh	cn	平/house 价/house 购/house 物/house 中/house 心/house
+zh	cn	中/country 国/country |/FSEP 山/state 东/state 省/state |/FSEP 兰/state_district 山/state_district 区/state_district |/FSEP 临/city 沂/city
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city |/FSEP 艾/house 维/house 拉/house 酒/house 店/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 林/road 湖/road 路/road |/FSEP 888/house_number 号/house_number |/FSEP 上/house 海/house 欢/house 乐/house 谷/house
+zh	cn	智/house 圣/house 汤/house 泉/house
+zh	cn	中/country 国/country |/FSEP 枣/city 庄/city 市/city
+zh	cn	上/city 海/city 市/city
+zh	cn	鑫/house 建/house 酒/house 饮/house 商/house 贸/house 公/house 司/house
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box ８４/po_box |/FSEP 梅/house 溪/house 牌/house 坊/house 旅/house 游/house 区/house |/FSEP 珠/city 海/city 市/city |/FSEP 中/country 国/country
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city
+zh	cn	邮/po_box 政/po_box 信/po_box 箱/po_box 三/po_box 万/po_box 二/po_box 千/po_box 六/po_box 百/po_box 三/po_box 十/po_box 一/po_box |/FSEP 和/house 福/house 花/house 园/house |/FSEP 泰/city 州/city 市/city |/FSEP CHN/country
+zh	cn	CHN/country |/FSEP 蓬/state_district 江/state_district 区/state_district |/FSEP 江/city 门/city 市/city
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 中/city 山/city 市/city |/FSEP 文/house 化/house 艺/house 术/house 中/house 心/house |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 1719/po_box
+zh	cn	华/house 润/house 凯/house 旋/house 门/house
+zh	cn	中/country 国/country |/FSEP 扬/city 州/city 市/city
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city |/FSEP 纳/house 帕/house 溪/house 谷/house
+zh	cn	华/house 东/house 市/house 场/house 三/house 期/house
+zh	cn	中/country 国/country |/FSEP 东/city 莞/city 市/city |/FSEP 福/house 神/house 岗/house 公/house 园/house
+zh	cn	中/country 国/country |/FSEP 西/city 安/city 市/city |/FSEP 陕/house 西/house 师/house 范/house 大/house 学/house
+zh	cn	中/country 国/country |/FSEP 宁/city 德/city 市/city
+zh	cn	银/house 座/house ·/house 奥/house 特/house 莱/house 斯/house
+zh	cn	时/house 代/house 奥/house 林/house 花/house 园/house 北/house 区/house
+zh	cn	中/country 国/country |/FSEP 洛/city 阳/city 市/city |/FSEP 道/road 南/road 路/road |/FSEP 铁/house 路/house 口/house 岸/house 大/house 厦/house
+zh	cn	中/country 国/country |/FSEP 临/city 沧/city 市/city |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box ５/po_box |/FSEP Lincang/house Busterminal/house
+zh	cn	中/country 国/country |/FSEP 常/city 州/city 市/city |/FSEP 江/house 苏/house 安/house 靠/house 智/house 能/house 输/house 电/house 工/house 程/house 科/house 技/house 股/house 份/house 有/house 限/house 公/house 司/house
+zh	cn	苏/house 宁/house 电/house 器/house
+zh	cn	中/country 国/country |/FSEP 庐/state_district 阳/state_district 区/state_district |/FSEP 合/city 肥/city 市/city |/FSEP 市/house 府/house 广/house 场/house 公/house 交/house 枢/house 纽/house |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 354/po_box
+zh	cn	Yiwu/house Airport/house
+zh	cn	中/country 国/country |/FSEP 定/city 西/city 市/city
+zh	cn	学/house 生/house 第/house 十/house 公/house 寓/house
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city |/FSEP 金/house 地/house 圣/house 爱/house 米/house 伦/house
+zh	cn	中/country 国/country |/FSEP 731500/postcode |/FSEP 康/city 乐/city 县/city
+zh	cn	中/country 国/country |/FSEP 南/city 昌/city 市/city |/FSEP 教/house 19/house 栋/house
+zh	cn	中/country 国/country |/FSEP 玉/city 林/city 市/city
+zh	cn	中/country 国/country |/FSEP 景/city 泰/city 县/city |/FSEP 振/road 兴/road 路/road |/FSEP 168/house_number 号/house_number |/FSEP 景/house 泰/house 县/house 汽/house 车/house 站/house
+zh	cn	中/country 国/country |/FSEP 蚌/city 埠/city 市/city |/FSEP 北/house 京/house 师/house 范/house 大/house 学/house 蚌/house 埠/house 附/house 属/house 学/house 校/house
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 沪/road 南/road 路/road 2727/road 弄/road |/FSEP 1136/house_number 號/house_number
+zh	cn	中/country 国/country |/FSEP 云/state 南/state 省/state |/FSEP 盈/city 江/city 县/city |/FSEP 盈/house 江/house 县/house 人/house 民/house 医/house 院/house
+zh	cn	现/house 代/house 园/house 青/house 岛/house 园/house
+zh	cn	沁/house 园/house 春/house 大/house 酒/house 店/house
+zh	cn	中/country 国/country |/FSEP 遵/city 义/city 市/city
+zh	cn	中/country 国/country |/FSEP 金/city 沙/city 鎮/city
+zh	cn	海/house 右/house 重/house 华/house
+zh	cn	遵/house 义/house 市/house 汇/house 川/house 区/house 董/house 公/house 寺/house 镇/house 人/house 民/house 政/house 府/house
+zh	cn	中/country 国/country |/FSEP 金/city 华/city 市/city |/FSEP 八/road 一/road 南/road 街/road |/FSEP 1755/house_number |/FSEP Jinhua/house South/house Bus/house Station/house
+zh	cn	中/country 国/country |/FSEP 佛/city 山/city 市/city |/FSEP 云/house 集/house 汽/house 贸/house Car/house Repair/house
+zh	cn	洪/house 崖/house 滴/house 翠/house
+zh	cn	来/house 源/house 白/house 石/house 山/house 国/house 家/house 地/house 质/house 公/house 园/house
+zh	cn	云/house 篆/house 风/house 清/house
+zh	cn	Çin/country Halk/country Cumhuriyeti/country |/FSEP 郵/postcode 編/postcode 644604/postcode |/FSEP 宜/state_district 宾/state_district 县/state_district //state_district Yibin/state_district |/FSEP 宜/city 宾/city 市/city //city Yibin/city |/FSEP 隆/road 兴/road 乡/road 林/road 石/road 村/road 大/road 河/road 组/road |/FSEP 大/house 河/house 组/house big/house river/house village/house
+zh	cn	中/country 国/country |/FSEP 广/state 东/state 省/state |/FSEP 广/city 州/city 市/city |/FSEP 北/house 山/house 村/house 站/house
+zh	cn	Shanghai/house Long-Distance/house Bus/house Terminal/house
+zh	cn	南/house 郊/house 客/house 运/house 站/house
+zh	cn	Prince/house Temple/house
+zh	cn	中/country 国/country |/FSEP 潍/city 坊/city 市/city
+zh	cn	中/country 国/country |/FSEP 上/city 海/city 市/city |/FSEP 长/city_district 宁/city_district 区/city_district |/FSEP 金/road 钟/road 路/road |/FSEP 968/house_number 号/house_number |/FSEP 凌/house 空/house SOHO/house
+zh	cn	山/house 西/house 省/house 第/house 二/house 医/house 院/house
+zh	cn	CN/country |/FSEP 北/city 京/city 市/city |/FSEP 海/suburb 淀/suburb 区/suburb |/FSEP 邮/po_box 政/po_box 信/po_box 箱/po_box 千/po_box 八/po_box 百/po_box 十/po_box 六/po_box
+zh	cn	中/country 国/country |/FSEP 武/city 汉/city 市/city
+zh	cn	CN/country |/FSEP 云/state 南/state 省/state |/FSEP 曲/city 靖/city 市/city |/FSEP 师/house 宗/house 县/house 人/house 民/house 政/house 府/house
+zh	cn	广/house 州/house 天/house 河/house 区/house 华/house 康/house 小/house 学/house
+zh	cn	中/road 华/road 路/road
+zh	cn	中/country 国/country |/FSEP 北/city 京/city 市/city |/FSEP 世/house 妇/house 会/house 纪/house 念/house 水/house 上/house 公/house 园/house
