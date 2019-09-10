@@ -442,7 +442,3 @@ head -n 4  shakes_sorted_desc.txt
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org/) 
 - [Text mining on the command line - Towards Data Science](https://towardsdatascience.com/text-mining-on-the-command-line-8ee88648476f)
 - [语言模型的基本概念 - Dream_Fish - 博客园](https://www.cnblogs.com/Dream-Fish/p/3963028.html) 
-
------------------------------------
-
-上次的视频彩蛋为大家展示了Linux桌面的酷炫效果，但如果

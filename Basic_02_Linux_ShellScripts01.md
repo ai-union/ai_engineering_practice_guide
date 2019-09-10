@@ -30,6 +30,7 @@ PATH1=$(pwd)
 注意，`pwd`是查看当前路径的命令，通过`$()`的形式，把里面`pwd`的结果直接赋值给`PATH1`。
 
 - 使用变量
+
 Shell中需要用`$变量名`的形式使用变量。结合前面所讲的定义赋值，我们可以使用一个已有变量的值，直接赋给另一个变量：
 ```
 PATH1=$PWD
@@ -208,7 +209,7 @@ wget https://raw.githubusercontent.com/prashant2018/MLSetup/master/MLSetup_pytho
 ```
 ./MLSetup_python3.sh numpy
 ./MLSetup_python3.sh pandas
-./MLSetup_python3.sh
+./MLSetup_python3.sh all
 ```
 这个脚本提供了一键安装包括`numpy`等多种常用python库的功能，综合运用了本篇文章讲解的命令行参数、退出状态码、`case`和函数多个知识点。请读者仔细研究，模仿其中写法。
 
