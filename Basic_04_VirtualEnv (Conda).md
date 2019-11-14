@@ -66,7 +66,7 @@ conda update conda
 
 
 - 建立
- 
+
 
 建立虚拟环境命令：
 ```
@@ -101,13 +101,13 @@ easy_install-3.6  pydoc    python3.6  pyvenv             wheel
 
 - 激活
 
-激活一个虚拟环境，就需要用`bin`下的`activate`：
+激活一个虚拟环境，就需要用conda的`activate`：
 ```
-source venv_test/bin/activate
+conda activate /tmp/test
 ```
-其中，`venv_test`是虚拟环境的名称。
+其中，`/tmp/test`是虚拟环境的路径，可以从`conda list`中查看。
 
-激活后，可以用`which python`确认是否成功。如果成功，当前`python`应该指向的是`venv_test/bin/python`
+激活后，可以用`which python`确认是否成功。如果成功，当前`python`应该指向的是`/tmp/test/bin/python`
 
 - 安装依赖
   
