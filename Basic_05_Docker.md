@@ -330,15 +330,18 @@ Docker在手，一切我有。善用Docker就会发现，环境搭建不是事�
   Jupyter容器的命令模板为`docker run -d -P jupyter/<your desired stack>`。这里的`<your desired stack>`包括`datascience-notebook`，`r-notebook`，`scipy-notebook`，`tensorflow-notebook`，`pyspark-notebook`和`all-spark-notebook`，基本上覆盖大部分Jupyter notebook的环境需求了。以`datascience-notebook`为例：
 
   ```
-  docker run -it --rm -p 8888:8888 -v $PWD/:/home/jovyan/work  jupyter/datascience-notebook
-  ```
-
+  docker run -it --rm -p 8888:8888  \
+  -v $PWD/:/home/jovyan/work  jupyter/datascience-notebook
+```
+  
 - Rstudio容器
 
   类似Jupyter，R最流行的Rstudio也有基于浏览器的版本Rstudio Server，因此被制作成容器镜像也非常自然。同样，Rstudio容器镜像也有不同模板，如`geospatial`，`ropensci`等。下面以常用的标准镜像为例：
 
   ```
-  docker run -P -d -p 8787:8787 -v $PWD:/home/$USER/foo -e USERID=$UID -e USER=$USER -e PASSWORD=pass rocker/rstudio
+  docker run -P -d -p 8787:8787  \
+  -v $PWD:/home/$USER/foo -e USERID=$UID -e USER=$USER  \
+  -e PASSWORD=pass rocker/rstudio
   ```
 
 - mysql容器
@@ -346,7 +349,9 @@ Docker在手，一切我有。善用Docker就会发现，环境搭建不是事�
   数据库也可以使用容器，但一般需要通过挂载卷实现持久化存储。
 
   ```
-  docker run --name test-mysql -p 3306:3306  -v $PWD/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=067116 -e MYSQL_DATABASE=gaode  -d mysql
+  docker run --name test-mysql -p 3306:3306   \
+  -v $PWD/mysql:/var/lib/mysql  -e MYSQL_ROOT_PASSWORD=067116  \
+  -e MYSQL_DATABASE=gaode  -d mysql
   ```
 
 - nodejs容器
@@ -354,7 +359,8 @@ Docker在手，一切我有。善用Docker就会发现，环境搭建不是事�
   有很多项目需要使用`npm`构建，可以用Docker容器临时进行编译：
 
   ```
-  docker run -it --rm --user $UID:$GID -p 4001:9966 -v $PWD/:/mynode -w /mynode node /bin/sh -c  "npm install --registry http://registry.cnpmjs.org ;npm start"
+  docker run -it --rm --user $UID:$GID -p 4001:9966  \
+  -v $PWD/:/mynode -w /mynode node /bin/sh -c  "npm install --registry http://registry.cnpmjs.org ;npm start"
   ```
 
 - Maven容器
@@ -362,7 +368,8 @@ Docker在手，一切我有。善用Docker就会发现，环境搭建不是事�
   同样，容器可以帮你解决运行`mvn install`的环境问题。
 
   ```
-  docker run -it --rm --name my-maven-project -v $PWD:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-7 mvn clean install
+  docker run -it --rm --name my-maven-project  \
+  -v $PWD:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-7 mvn clean install
   ```
 
 - Python容器
@@ -370,9 +377,10 @@ Docker在手，一切我有。善用Docker就会发现，环境搭建不是事�
   可以直接用容器Python运行`py`脚本。
 
   ```
-  docker run -it --rm --name my-running-script -v "$PWD":/usr/src/myapp -w /usr/src/myapp python:3 python your-daemon-or-script.py
-  ```
-
+  docker run -it --rm --name my-running-script  \
+  -v "$PWD":/usr/src/myapp -w /usr/src/myapp python:3 python your-daemon-or-script.py
+```
+  
   
 
 最后，简单回顾这次文章内容。本次我们简单介绍了Docker，并从一个基于Docker部署的图像分类演示程序的使用上，感受了Docker部署环境的便利。然后，我们对Docker开发的流程三个步骤做了简单的介绍，并把Docker和Git放在以前比较了一下。最后，文章对镜像配置，分层机制，减小镜像大小和常用的容器工具四个方面一一进行了介绍。
